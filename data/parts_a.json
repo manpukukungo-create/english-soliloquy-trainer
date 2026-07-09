@@ -1,0 +1,1986 @@
+[
+  {
+    "type": "Type 1",
+    "no": "1",
+    "eng": "I wanna...",
+    "kana": "アイワナ",
+    "meaning": "〜したい",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "2",
+    "eng": "I need to...",
+    "kana": "アイニードゥトゥ",
+    "meaning": "〜しなきゃ（必要）",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "3",
+    "eng": "I have to...",
+    "kana": "アイハフトゥ",
+    "meaning": "〜しなきゃ（義務）",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "4",
+    "eng": "I gotta...",
+    "kana": "アイガラ",
+    "meaning": "〜しなきゃ（カジュアル）",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "5",
+    "eng": "I'm gonna...",
+    "kana": "アムガナ",
+    "meaning": "〜するつもり（予定）",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "6",
+    "eng": "I was gonna...",
+    "kana": "アイワズガナ",
+    "meaning": "〜するつもりだった",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "7",
+    "eng": "I used to...",
+    "kana": "アイユーストゥ",
+    "meaning": "昔はよく〜してたなぁ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "8",
+    "eng": "I'd like to...",
+    "kana": "アイドゥライクトゥ",
+    "meaning": "〜したいです（丁寧）",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "9",
+    "eng": "I can't wait to...",
+    "kana": "アイキャントウェイトゥ",
+    "meaning": "〜するのが待ちきれない",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "10",
+    "eng": "I'm trying to...",
+    "kana": "アムトライントゥ",
+    "meaning": "〜しようと頑張ってる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "11",
+    "eng": "I managed to...",
+    "kana": "アイマネィジドゥトゥ",
+    "meaning": "なんとか〜できた",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "12",
+    "eng": "I promised to...",
+    "kana": "アイプロミストゥ",
+    "meaning": "〜すると約束した",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "13",
+    "eng": "I decided to...",
+    "kana": "アイディサイディドゥトゥ",
+    "meaning": "〜することに決めた",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "14",
+    "eng": "I refuse to...",
+    "kana": "アイリフューズトゥ",
+    "meaning": "絶対に〜したくない",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "15",
+    "eng": "You can...",
+    "kana": "ユーキャン",
+    "meaning": "〜していいよ / 〜できる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "16",
+    "eng": "You should...",
+    "kana": "ユーシュッ",
+    "meaning": "〜した方がいいよ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "17",
+    "eng": "You don't have to...",
+    "kana": "ユードンハフトゥ",
+    "meaning": "〜しなくていいよ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "18",
+    "eng": "You'd better...",
+    "kana": "ユードゥベラ",
+    "meaning": "〜しないとマズいよ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "19",
+    "eng": "Can you...?",
+    "kana": "キャンユー",
+    "meaning": "〜してくれる？",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "20",
+    "eng": "Could you...?",
+    "kana": "クッジュー",
+    "meaning": "〜していただけますか？",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "21",
+    "eng": "Would you like to...?",
+    "kana": "ウッジューライクトゥ",
+    "meaning": "〜したいですか？",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "22",
+    "eng": "Do I have to...?",
+    "kana": "ドゥアイハフトゥ",
+    "meaning": "〜しなきゃダメ？",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "23",
+    "eng": "Why don't we...?",
+    "kana": "ワイドンウィ",
+    "meaning": "〜しようよ（提案）",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "24",
+    "eng": "Let's...",
+    "kana": "レッツ",
+    "meaning": "〜しよう",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "25",
+    "eng": "Let's not...",
+    "kana": "レッツナッ",
+    "meaning": "〜するのはやめよう",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "26",
+    "eng": "Let me...",
+    "kana": "レッミー",
+    "meaning": "私に〜させて",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "27",
+    "eng": "Don't forget to...",
+    "kana": "ドンフォーゲットゥ",
+    "meaning": "〜するのを忘れないで",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "28",
+    "eng": "It's time to...",
+    "kana": "イッツタイムトゥ",
+    "meaning": "もう〜する時間だ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "29",
+    "eng": "Make sure to...",
+    "kana": "メイクシュアトゥ",
+    "meaning": "必ず〜してね",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "30",
+    "eng": "All you have to do is...",
+    "kana": "オーリューハフトゥドゥイズ",
+    "meaning": "〜しさえすればいい",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "31",
+    "eng": "It's (形容詞) to...",
+    "kana": "イッツ（形容詞）トゥ",
+    "meaning": "〜するのは（形容詞）だ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "32",
+    "eng": "It's too (形容詞) to...",
+    "kana": "（X）イズ トゥー（形容詞）トゥ",
+    "meaning": "Xは（形容詞）すぎて〜できない",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "33",
+    "eng": "It's (形容詞) enough to...",
+    "kana": "（X）イズ（形容詞）イナフトゥ",
+    "meaning": "〜するにはXは十分（形容詞）だ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "34",
+    "eng": "I find it (形容詞) to...",
+    "kana": "アイファインディッ（形容詞）トゥ",
+    "meaning": "〜することは（形容詞）だと思う",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "36",
+    "eng": "It takes (時間) to...",
+    "kana": "イッテイクス（時間）トゥ",
+    "meaning": "〜するのに（時間）がかかる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "37",
+    "eng": "I'll have him...",
+    "kana": "ハヴ（X）",
+    "meaning": "（立場や役割としてやってもらう）させる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "38",
+    "eng": "I'll get her to...",
+    "kana": "ゲッ（X）トゥ",
+    "meaning": "（説得したり、工夫したりして）させる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "39",
+    "eng": "I'll make him...",
+    "kana": "メイク（X）",
+    "meaning": "彼に（強制的に）させる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "40",
+    "eng": "I'll let you...",
+    "kana": "レッ（X）",
+    "meaning": "あなたに〜させてあげる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "41",
+    "eng": "It's supposed to...",
+    "kana": "ビー サポウズドゥ トゥ",
+    "meaning": "~の予定だよ。you're=～することになっている.I'm=しなきゃなんだが…",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "42",
+    "eng": "I'll probably...",
+    "kana": "アイル プロバブリィ",
+    "meaning": "きっと〜するだろう",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "43",
+    "eng": "If I were to (動詞原形), I would...",
+    "kana": "イフ アイ ワァ トゥ 〜 アイ ウッ",
+    "meaning": "仮に〜するとしたら、（Bを）するだろう",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "44",
+    "eng": "I get to...",
+    "kana": "ゲッ(ト) トゥ",
+    "meaning": "〜する機会がある / 〜することができる　ラッキー！嬉しい！",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "45",
+    "eng": "I’m going to have to...",
+    "kana": "ビー ゴーイン トゥ ハヴ トゥ",
+    "meaning": "残念ながら〜しないといけない",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "46",
+    "eng": "You've got to (動詞原形) if you want to...",
+    "kana": "ユーヴ ガッ トゥ 〜 イフ ユー ウォン トゥ",
+    "meaning": "もし〜したいなら、絶対に（B）しなきゃダメだよね",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "47",
+    "eng": "It wouldn't hurt to...",
+    "kana": "イッ ウドゥン ハーッ トゥ",
+    "meaning": "〜しても損はないよね / 痛手にはならないよね",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "48",
+    "eng": "Just wanted to...",
+    "kana": "ジャスト ウォンティッ トゥ",
+    "meaning": "ただ〜したかっただけなんだ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "49",
+    "eng": "Let's definitely...",
+    "kana": "レッツ デフィニトリィ",
+    "meaning": "絶対に〜しよう",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "50",
+    "eng": "I'll have to...",
+    "kana": "アイル ハヴ トゥ",
+    "meaning": "〜しないといけないだろうなぁ",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "51",
+    "eng": "It takes so much balls to...",
+    "kana": "イッ テイクス ソー マッチ ボールズ トゥ",
+    "meaning": "〜するにはめちゃくちゃ勇気がいる",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "52",
+    "eng": "I never...",
+    "kana": "アイ ネヴァー",
+    "meaning": "私は絶対に〜しない（普段の習慣）",
+    "next_form": "動詞の現在形/原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "53",
+    "eng": "I'd rather...",
+    "kana": "アイドゥ ラザー",
+    "meaning": "（どちらかと言えば）むしろ〜したい",
+    "next_form": "動詞の原形"
+  },
+  {
+    "type": "Type 1",
+    "no": "54",
+    "eng": "Don't make it all about...",
+    "kana": "ドン メイキッ オール アバウッ",
+    "meaning": "何でもかんでも〜中心に考えるのはやめなよ",
+    "next_form": "動詞の原形/名詞"
+  },
+  {
+    "type": "Type 4",
+    "no": "55",
+    "eng": "I think...",
+    "kana": "アイシンク",
+    "meaning": "〜だと思う",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "56",
+    "eng": "I don't think...",
+    "kana": "アイドンシンク",
+    "meaning": "〜じゃないと思う",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "57",
+    "eng": "I thought...",
+    "kana": "アイソッ",
+    "meaning": "〜だと思ってた（勘違い）",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "58",
+    "eng": "I hope...",
+    "kana": "アイホウプ",
+    "meaning": "〜だといいな（願い）",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "59",
+    "eng": "I guess...",
+    "kana": "アイゲス",
+    "meaning": "（なんとなく）〜かなぁ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "60",
+    "eng": "I mean...",
+    "kana": "アイミーン",
+    "meaning": "つまり〜ってこと",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "61",
+    "eng": "I heard...",
+    "kana": "アイハードゥ",
+    "meaning": "〜だって聞いたよ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "62",
+    "eng": "I assume...",
+    "kana": "アイアシューム",
+    "meaning": "（当然）〜だろうと思う",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "63",
+    "eng": "I bet...",
+    "kana": "アイベッ",
+    "meaning": "絶対に〜だよ（賭けてもいい）",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "64",
+    "eng": "I'm sure...",
+    "kana": "アムシュア",
+    "meaning": "絶対に〜だよ（確信）",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "65",
+    "eng": "I'm afraid...",
+    "kana": "アムアフレィドゥ",
+    "meaning": "残念ながら〜です",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "66",
+    "eng": "I'm glad...",
+    "kana": "アムグラッ",
+    "meaning": "〜でよかった！",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "67",
+    "eng": "I'm sorry...",
+    "kana": "アムソリィ",
+    "meaning": "〜してごめんね",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "68",
+    "eng": "I know...",
+    "kana": "アイノウ",
+    "meaning": "〜なのは知ってる",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "69",
+    "eng": "I realize...",
+    "kana": "アイリアライズ",
+    "meaning": "〜だと気づいた",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "70",
+    "eng": "I doubt...",
+    "kana": "アイダウッ",
+    "meaning": "〜じゃないと思うなぁ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "71",
+    "eng": "I'm convinced...",
+    "kana": "アムコンヴィンストゥ",
+    "meaning": "絶対に〜だと確信してる",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "72",
+    "eng": "I stand corrected...",
+    "kana": "アイスタン(ド)コレクティッドゥ",
+    "meaning": "〜の言う通りだったわ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "73",
+    "eng": "It seems...",
+    "kana": "イッスィームズ",
+    "meaning": "〜みたいだね",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "74",
+    "eng": "It turns out...",
+    "kana": "イッターンズアウッ",
+    "meaning": "結局〜だと分かった",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "75",
+    "eng": "It's a shame...",
+    "kana": "イッツァシェィム",
+    "meaning": "〜なのは残念だ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "76",
+    "eng": "It's no wonder...",
+    "kana": "イッツノゥワンダー",
+    "meaning": "〜なのも無理はない",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "77",
+    "eng": "Word on the street is...",
+    "kana": "ワードオンダストリートィズ",
+    "meaning": "噂では〜らしいよ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "78",
+    "eng": "Rumor has it...",
+    "kana": "ルーマーハズィッ",
+    "meaning": "噂によると〜らしい",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "79",
+    "eng": "Are you sure...?",
+    "kana": "アーユーシュア",
+    "meaning": "本当に〜なの？",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "80",
+    "eng": "Do you think...?",
+    "kana": "ドゥーユーシンク",
+    "meaning": "〜だと思う？",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "81",
+    "eng": "Does that mean...?",
+    "kana": "ダズダッミーン",
+    "meaning": "それって〜ってこと？",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "82",
+    "eng": "How come...?",
+    "kana": "ハウカム",
+    "meaning": "なんで〜なの？",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "83",
+    "eng": "Chance is...",
+    "kana": "チャンスィズ",
+    "meaning": "おそらく〜だろう",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "84",
+    "eng": "The point is...",
+    "kana": "ダポインティズ",
+    "meaning": "要するに〜ってこと",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "85",
+    "eng": "It's (形容詞) that...",
+    "kana": "イッツ（形容詞）ダッ",
+    "meaning": "〜なのは（形容詞）だ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "86",
+    "eng": "It’s is so (形容詞) that...",
+    "kana": "（X）イズ ソー（形容詞）ダッ",
+    "meaning": "Xはとても（形容詞）だから〜だ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "87",
+    "eng": "(文) so that...",
+    "kana": "（文）ソー ダッ",
+    "meaning": "〜（後ろの文）のために、元の文をする",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "88",
+    "eng": "Just because (文) doesn't mean...",
+    "kana": "ジャスト ビコーズ（文）ダズン ミーン",
+    "meaning": "〜だからといって…とは限らない",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "89",
+    "eng": "(文) as soon as...",
+    "kana": "（文）アズ スーン アズ",
+    "meaning": "〜するとすぐに元の文が起きる",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "90",
+    "eng": "I don't know if...",
+    "kana": "アイドンノウ イフ",
+    "meaning": "〜かどうかわからない",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "91",
+    "eng": "I wonder if...",
+    "kana": "アイワンダー イフ",
+    "meaning": "〜かどうかなと思う",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "92",
+    "eng": "It's been (時間) since...",
+    "kana": "イッツ ビーン（時間）スィンス",
+    "meaning": "〜してから（時間）が経っている",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "93",
+    "eng": "How about...",
+    "kana": "ハウ アバウッ",
+    "meaning": "〜（文）はどう？ / 〜してみたら？",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "94",
+    "eng": "You know how...",
+    "kana": "ユー ノウ ハウ",
+    "meaning": "ほら、〜じゃん？ / 知っての通り〜だけどさ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "95",
+    "eng": "If you could (動詞原形), that would be (形容詞).",
+    "kana": "イフ ユー クッ 〜 ザッ ウドゥ ビー",
+    "meaning": "もし〜してくれたら、（文末の形容詞）でありがたいです",
+    "next_form": "動詞原形 ＋ 形容詞"
+  },
+  {
+    "type": "Type 4",
+    "no": "96",
+    "eng": "what if...",
+    "kana": "ワッ イフ",
+    "meaning": "もし〜（文）だとしたらどうする？ / 〜ならどうなる？",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "97",
+    "eng": "That's why...",
+    "kana": "ザッツ ワィ",
+    "meaning": "だから〜（という結果に）なんだ、そういうわけで〜だ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "98",
+    "eng": "It feels like...",
+    "kana": "イッ フィールズ ライク",
+    "meaning": "〜な気がする / まるで〜であるかのように感じる",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "99",
+    "eng": "There's no way...",
+    "kana": "ゼアズ ノゥ ウェイ",
+    "meaning": "〜なんて絶対にありえない、そんなわけがない",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "100",
+    "eng": "I'm not sure if...",
+    "kana": "アム ナッ シュア イフ",
+    "meaning": "〜かどうかいまいちハッキリ分からない",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "101",
+    "eng": "It's (形容詞) how...",
+    "kana": "イッツ（形容詞）ハウ",
+    "meaning": "〜（文）なのは、本当に（形容詞）だよね",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "102",
+    "eng": "the more (文), the more (文)",
+    "kana": "ダ モア 〜 ダ モア 〜",
+    "meaning": "〜すればするほど、ますます〜になる",
+    "next_form": "文 ＋ 文"
+  },
+  {
+    "type": "Type 4",
+    "no": "103",
+    "eng": "It's just that...",
+    "kana": "イッツ ジャス(ト) ダッ",
+    "meaning": "ただ〜なだけなんだ、単に〜なだけ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "104",
+    "eng": "it's not that...",
+    "kana": "イッツ ナッ ダッ",
+    "meaning": "別に〜っていう訳ではないんだけどね",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "105",
+    "eng": "It's said that...",
+    "kana": "イッ セッ(ド) ダッ",
+    "meaning": "一般的に〜だと言われている、噂されている",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "106",
+    "eng": "It's such a (形容詞 名詞) that...",
+    "kana": "イッツ サッチャ 〜 ダッ",
+    "meaning": "ものすごく（名詞）だったので、結果〜だった",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "107",
+    "eng": "I'm at the stage where...",
+    "kana": "アム アッ ダ ステイジ ウェア",
+    "meaning": "今まさに〜という段階・フェーズにあるんだ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "108",
+    "eng": "I was like, ...",
+    "kana": "（X）イズ ライク",
+    "meaning": "Xが「〜」って言った（思った）んだよ",
+    "next_form": "文（またはセリフ）"
+  },
+  {
+    "type": "Type 4",
+    "no": "109",
+    "eng": "in which case...",
+    "kana": "イン ウィッチ ケース",
+    "meaning": "もしそうなった場合は、〜ということになる",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "110",
+    "eng": "It makes me less/more (形容詞) when...",
+    "kana": "イッ メイクス ミー レス/モア 〜 ウェン",
+    "meaning": "〜（文）のとき、もっと（またはあまり）〜な気持ちになる",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "111",
+    "eng": "I can't stand it when...",
+    "kana": "アイ キャント スタンディッ ウェン",
+    "meaning": "〜（文）という状況になるのが本当に耐えられない",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "112",
+    "eng": "There's a chance that...",
+    "kana": "ゼアズ ア チャンス ダッ",
+    "meaning": "もしかしたら〜という可能性がある、〜かもしれない",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "113",
+    "eng": "Before I knew it, ...",
+    "kana": "ビフォー アイ ニュー イッ",
+    "meaning": "気づいたら（いつの間にか）〜してたんだ",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "114",
+    "eng": "I guess...",
+    "kana": "アイ ゲス",
+    "meaning": "〜だと思う、〜みたいだね（※既存No.5の表記微調整版）",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 4",
+    "no": "115",
+    "eng": "I never thought I'd end up...",
+    "kana": "アイ ネヴァー ソッ タイドゥ エンダップ",
+    "meaning": "まさか自分が最終的に〜することになるとは思わなかった",
+    "next_form": "文（動名詞が続く文）"
+  },
+  {
+    "type": "Type 4",
+    "no": "116",
+    "eng": "I have a body/brain where...",
+    "kana": "アイ ハヴァ ボディ / ブレイン ウェア",
+    "meaning": "私は（後ろの文のような）体質・脳の仕組みをしている",
+    "next_form": "文（主語＋動詞〜）"
+  },
+  {
+    "type": "Type 2",
+    "no": "117",
+    "eng": "Thank you for...",
+    "kana": "センキューフォー",
+    "meaning": "〜をありがとう",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "118",
+    "eng": "I'm thinking about...",
+    "kana": "アムシンキンアバウッ",
+    "meaning": "〜しようか考えてる",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "119",
+    "eng": "I'm looking forward to...",
+    "kana": "アムルッキンフォーワドゥトゥ",
+    "meaning": "〜を楽しみにしてる",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "120",
+    "eng": "I'm sick of...",
+    "kana": "アムスィックオフ",
+    "meaning": "〜にはうんざりだ",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "121",
+    "eng": "I'm tired of...",
+    "kana": "アムタイアドアフ",
+    "meaning": "〜には飽き飽きだ",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "122",
+    "eng": "I'm used to...",
+    "kana": "アムユーストゥ",
+    "meaning": "〜には慣れてる",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "123",
+    "eng": "I'm good at...",
+    "kana": "アムグッダッ",
+    "meaning": "〜が得意だ",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "124",
+    "eng": "I'm bad at...",
+    "kana": "アムバッダッ",
+    "meaning": "〜が苦手だ",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "125",
+    "eng": "I don't mind...",
+    "kana": "アイドンマイン(ド)",
+    "meaning": "〜するのは嫌じゃないよ",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "126",
+    "eng": "I feel like...",
+    "kana": "アイフィールライク",
+    "meaning": "〜したい気分だ",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "127",
+    "eng": "I can't help...",
+    "kana": "アイキャントヘルプ",
+    "meaning": "ついつい〜しちゃう",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "128",
+    "eng": "I can't stand...",
+    "kana": "アイキャントスタン(ド)",
+    "meaning": "〜するのは耐えられない",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "129",
+    "eng": "It's worth...",
+    "kana": "イッツワース",
+    "meaning": "〜する価値がある",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "130",
+    "eng": "There's no point in...",
+    "kana": "ゼァズノゥポインティン",
+    "meaning": "〜しても意味がないよ",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "131",
+    "eng": "I prefer...",
+    "kana": "アイプリファー",
+    "meaning": "（どちらかといえば）〜が好き",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "132",
+    "eng": "I enjoy...",
+    "kana": "アイインジョィ",
+    "meaning": "〜するのが楽しい",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "133",
+    "eng": "I finished...",
+    "kana": "アイフィニッシュトゥ",
+    "meaning": "〜し終わった",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "134",
+    "eng": "I quit...",
+    "kana": "アイクィッ",
+    "meaning": "〜するのをやめた",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "135",
+    "eng": "I avoid...",
+    "kana": "アイアヴォィドゥ",
+    "meaning": "〜しないようにしてる",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "136",
+    "eng": "I deny...",
+    "kana": "アイディナィ",
+    "meaning": "〜したのを否定する",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "137",
+    "eng": "I delay...",
+    "kana": "アイディレィ",
+    "meaning": "〜するのを先延ばす",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "138",
+    "eng": "I miss...",
+    "kana": "アイミス",
+    "meaning": "〜してた頃が恋しい",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "139",
+    "eng": "I practice...",
+    "kana": "アイプラクティス",
+    "meaning": "〜の練習をする",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "140",
+    "eng": "I regret...",
+    "kana": "アイリグレッ",
+    "meaning": "〜したのを後悔してる",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "141",
+    "eng": "I keep...",
+    "kana": "アイキープ",
+    "meaning": "ずっと〜し続けている",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "142",
+    "eng": "What do you think about...?",
+    "kana": "ワッドゥーユーシンカバウッ",
+    "meaning": "〜するのはどう思う？",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "143",
+    "eng": "How about...?",
+    "kana": "ハウアバウッ",
+    "meaning": "〜するのはどう？",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "144",
+    "eng": "Is it okay...?",
+    "kana": "イズィッオーケイ",
+    "meaning": "〜しても大丈夫？",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "145",
+    "eng": "Thank you in advance for...",
+    "kana": "センキューインアドヴァンスフォー",
+    "meaning": "事前に〜を感謝します",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "146",
+    "eng": "Instead of...",
+    "kana": "インスタッダフ",
+    "meaning": "〜する代わりに",
+    "next_form": "動詞のing形 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "147",
+    "eng": "He is used to...",
+    "kana": "（X）イズ ユーストゥ",
+    "meaning": "Xは〜に慣れている",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "148",
+    "eng": "spend (時間)...",
+    "kana": "スペンド（時間）",
+    "meaning": "〜することに（時間）を費やす",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "149",
+    "eng": "I feel like...",
+    "kana": "アイ フィール ライク",
+    "meaning": "〜したい気分だ（※既存10の主語自由版）",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "150",
+    "eng": "I see her...",
+    "kana": "シー（X）",
+    "meaning": "Xが〜しているのを見る",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "151",
+    "eng": "I hear them...",
+    "kana": "ヒアー（X）",
+    "meaning": "Xが〜しているを聞く",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "152",
+    "eng": "What's the point of...",
+    "kana": "ワッツ ダ ポイン(ト) オヴ",
+    "meaning": "〜することに何の意味があるの？",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "153",
+    "eng": "without...",
+    "kana": "ウィザウッ",
+    "meaning": "〜することなしで / 〜なしで",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "154",
+    "eng": "It is worth...",
+    "kana": "（X）イズ ワース",
+    "meaning": "Xは〜する価値がある",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "155",
+    "eng": "when it comes to...",
+    "kana": "ウェニッ カムズ トゥ",
+    "meaning": "〜のことになると / 〜の話といえば",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "156",
+    "eng": "I don't feel like...",
+    "kana": "アイ ドン フィール ライク",
+    "meaning": "〜な気分じゃないんだよね",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "157",
+    "eng": "My biggest regret is (not)...",
+    "kana": "マイ ビゲス(ト) リグレッ(ト) イズ (ナッ)",
+    "meaning": "一番後悔していることは〜すること（しなかったこと）だ",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "158",
+    "eng": "I'm not tripping about...",
+    "kana": "アム ナッ トリッピン アバウッ",
+    "meaning": "〜のことについては特に心配してないよ",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "159",
+    "eng": "I always (動詞) and end up...",
+    "kana": "アイ オールウェイズ 〜 アンド エンダップ",
+    "meaning": "いつも〜して、結局最後は（B）になっちゃう",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "160",
+    "eng": "You gotta keep...",
+    "kana": "ユー ガラ キープ",
+    "meaning": "ずっと〜し続けなきゃダメだよ",
+    "next_form": "動名詞(ing)"
+  },
+  {
+    "type": "Type 2",
+    "no": "161",
+    "eng": "There's no detriment to...",
+    "kana": "ゼアズ ノゥ デトリメン(ト) トゥ",
+    "meaning": "〜することに何のデメリット（損）もない",
+    "next_form": "動名詞(ing) / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "162",
+    "eng": "for the first time in...",
+    "kana": "フォー ダ ファース(ト) タイム イン",
+    "meaning": "（B：時間）ぶりに",
+    "next_form": "名詞（時間）"
+  },
+  {
+    "type": "Type 2",
+    "no": "163",
+    "eng": "I'm almost...",
+    "kana": "アム オールモース(ト)",
+    "meaning": "もうすぐ（B：形容詞・状態）なんだよね",
+    "next_form": "形容詞 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "164",
+    "eng": "I'm always...",
+    "kana": "アム オールウェイズ",
+    "meaning": "俺っていつも（B：形容詞・状態）なんだよね",
+    "next_form": "形容詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "165",
+    "eng": "I'm more (形容詞) without/with...",
+    "kana": "アム モア 〜 ウィザウッ / ウィズ",
+    "meaning": "〜がない方（ある方）が、より（形容詞）になれる",
+    "next_form": "名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "166",
+    "eng": "It came at me too fast.",
+    "kana": "（X）ケイム アッ ミー トゥー ファス(ト)",
+    "meaning": "（X：名詞）が急にやってきて心の準備が…",
+    "next_form": "主語になる名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "167",
+    "eng": "I really messed up...",
+    "kana": "アイ リアリィ メスッ ダップ",
+    "meaning": "〜で盛大にやらかしちゃった",
+    "next_form": "名詞 / 動名詞(ing)"
+  },
+  {
+    "type": "Type 2",
+    "no": "168",
+    "eng": "I had no idea about...",
+    "kana": "アイ ハドゥ ノゥ アイディア アバウッ",
+    "meaning": "〜のことについては全く知らなかった",
+    "next_form": "名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "169",
+    "eng": "It would be good.",
+    "kana": "（X）ウドゥ ビー グッ",
+    "meaning": "（X：名詞）だといいかもね、ちょうどいいかも",
+    "next_form": "主語になる名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "170",
+    "eng": "I talked to...",
+    "kana": "アイ トー(ク)トゥ",
+    "meaning": "〜な人（名詞）と話した、知り合った",
+    "next_form": "名詞（人）"
+  },
+  {
+    "type": "Type 2",
+    "no": "171",
+    "eng": "(X) wouldn't make a difference.",
+    "kana": "（X）ウドゥン メイカ ディファレンス",
+    "meaning": "（X：行動）をしても結果は何も変わらない、意味がない",
+    "next_form": "主語になる名詞/ing"
+  },
+  {
+    "type": "Type 2",
+    "no": "172",
+    "eng": "I can't function without...",
+    "kana": "アイ キャント ファンクション ウィザウッ",
+    "meaning": "〜なしじゃ（頭や体が）まともに働かない、やってけない",
+    "next_form": "名詞 / 動名詞(ing)"
+  },
+  {
+    "type": "Type 2",
+    "no": "173",
+    "eng": "some/any type of...",
+    "kana": "サム / エニィ タイプ オヴ",
+    "meaning": "〜とか、そういう感じのやつ（名詞）",
+    "next_form": "名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "174",
+    "eng": "I don't want to come off as...",
+    "kana": "アイ ドン ウォン トゥ カム オフ アズ",
+    "meaning": "〜（形容詞・名詞）っていう印象を持たれたくない",
+    "next_form": "形容詞 / 名詞"
+  },
+  {
+    "type": "Type 2",
+    "no": "175",
+    "eng": "For some reason, I always...",
+    "kana": "フォー サム リーズン アイ オールウェイズ",
+    "meaning": "なんでか知らないけど、いつも（B：動詞現在形）しちゃう",
+    "next_form": "動詞の現在形"
+  },
+  {
+    "type": "Type 3",
+    "no": "176",
+    "eng": "I've... (I have)",
+    "kana": "アイヴ",
+    "meaning": "（もう）〜したよ",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "177",
+    "eng": "I haven't...",
+    "kana": "アイハヴンッ",
+    "meaning": "まだ〜してない",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "178",
+    "eng": "I've already...",
+    "kana": "アイヴオールレディ",
+    "meaning": "とっくに〜し終えたよ",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "179",
+    "eng": "I've never...",
+    "kana": "アイヴネヴァー",
+    "meaning": "一度も〜したことがない",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "180",
+    "eng": "I've always...",
+    "kana": "アイヴオールウェィズ",
+    "meaning": "昔からずっと〜してる",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "181",
+    "eng": "I've been...",
+    "kana": "アイヴビーン",
+    "meaning": "ずっと〜な状態だ",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "182",
+    "eng": "I had...",
+    "kana": "アイハッ",
+    "meaning": "（あの時すでに）〜していた",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "183",
+    "eng": "I got...",
+    "kana": "アイガッ",
+    "meaning": "〜された（受動態）",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "184",
+    "eng": "I'm...",
+    "kana": "アム",
+    "meaning": "〜されている（受け身）",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "185",
+    "eng": "It's...",
+    "kana": "イッツ",
+    "meaning": "〜されている（物主語）",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "186",
+    "eng": "It's been...",
+    "kana": "イッツビーン",
+    "meaning": "〜されてきた",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "187",
+    "eng": "I should have...",
+    "kana": "アイシュッハヴ",
+    "meaning": "〜しておけばよかった",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "188",
+    "eng": "I want it...",
+    "kana": "アイウォニッ",
+    "meaning": "それを〜してほしい",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "189",
+    "eng": "I need it...",
+    "kana": "アイニーディッ",
+    "meaning": "それを〜してもらう必要がある",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "190",
+    "eng": "I had it...",
+    "kana": "アイハディッ",
+    "meaning": "それを〜してもらった",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "191",
+    "eng": "I shouldn't have...",
+    "kana": "アイシュドゥンッハヴ",
+    "meaning": "〜しなきゃよかった",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "192",
+    "eng": "I could have...",
+    "kana": "アイクッハヴ",
+    "meaning": "〜することだってできたのに",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "193",
+    "eng": "I would have...",
+    "kana": "アイウッハヴ",
+    "meaning": "（もし〜なら）〜したのになぁ",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "194",
+    "eng": "I might have...",
+    "kana": "アイマイッハヴ",
+    "meaning": "もしかしたら〜したかも",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "195",
+    "eng": "I must have...",
+    "kana": "アイマストゥハヴ",
+    "meaning": "絶対に〜したに違いない",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "196",
+    "eng": "I've got...",
+    "kana": "アイヴガッ",
+    "meaning": "〜を手に入れた / 持っている",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "197",
+    "eng": "Have you...?",
+    "kana": "ハヴユー",
+    "meaning": "〜したことある？ / もう〜した？",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "198",
+    "eng": "Haven't you...?",
+    "kana": "ハヴンッチュー",
+    "meaning": "まだ〜してないの？",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "199",
+    "eng": "Has anyone...?",
+    "kana": "ハズエニワン",
+    "meaning": "誰か〜した人いる？",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "200",
+    "eng": "Where have you...?",
+    "kana": "ウェアハヴユー",
+    "meaning": "ずっとどこにいたの？",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "201",
+    "eng": "It should be...",
+    "kana": "イッシュッビー",
+    "meaning": "〜されているはずだ",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "202",
+    "eng": "It could be...",
+    "kana": "イクッビー",
+    "meaning": "〜されている可能性がある",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "203",
+    "eng": "It must be...",
+    "kana": "イマストゥビー",
+    "meaning": "間違いなく〜されている",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "204",
+    "eng": "Having...",
+    "kana": "ハヴィン",
+    "meaning": "〜し終えたので（分詞構文）",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "205",
+    "eng": "Once...",
+    "kana": "ワンス",
+    "meaning": "一度〜されてしまうと",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "206",
+    "eng": "I've never heard (X)...",
+    "kana": "アイヴ ネヴァー ハードゥ（X）",
+    "meaning": "Xが〜されるのを聞いたことがない",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "207",
+    "eng": "I've (過去分詞) every day since I was...",
+    "kana": "アイヴ 〜 エヴリデイ スィンス アイ ワズ",
+    "meaning": "〜の時から、毎日ずっと（B）し続けている",
+    "next_form": "過去分詞（p.p.）"
+  },
+  {
+    "type": "Type 3",
+    "no": "208",
+    "eng": "I've been into...",
+    "kana": "アイヴ ビーン インテュ",
+    "meaning": "最近〜にハマってるんだよね（beenが過去分詞）",
+    "next_form": "名詞 / 動名詞(ing)"
+  },
+  {
+    "type": "Type 3",
+    "no": "209",
+    "eng": "I've been kind of obsessed with...",
+    "kana": "アイヴ ビーン カインドブ オブセストゥ ウィズ",
+    "meaning": "最近、ちょっと〜に沼りすぎてるんだよね",
+    "next_form": "名詞 / 動名詞(ing)"
+  },
+  {
+    "type": "Type 3",
+    "no": "210",
+    "eng": "I've been...",
+    "kana": "アイヴ ビーン",
+    "meaning": "ずっと（B：現在完了進行形・受動態のbeen）している",
+    "next_form": "現在分詞ing / 過去分詞p.p."
+  },
+  {
+    "type": "Type 3",
+    "no": "211",
+    "eng": "I wasn't...",
+    "kana": "アイ ワズンッ",
+    "meaning": "（あの時）十分に（B：形容詞化した過去分詞）してなかった",
+    "next_form": "過去分詞（形容詞用法）"
+  },
+  {
+    "type": "Type 5",
+    "no": "212",
+    "eng": "I know...",
+    "kana": "アイノウ",
+    "meaning": "〜か知っている",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "213",
+    "eng": "I don't know...",
+    "kana": "アイドンノウ",
+    "meaning": "〜か知らない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "214",
+    "eng": "I wonder...",
+    "kana": "アイワンダー",
+    "meaning": "〜かなぁ（疑問）",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "215",
+    "eng": "I can't imagine...",
+    "kana": "アイキャンティマジン",
+    "meaning": "〜か想像もつかない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "216",
+    "eng": "I don't understand...",
+    "kana": "アイドンアンダスタン(ド)",
+    "meaning": "なぜ〜か理解できない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "217",
+    "eng": "I see...",
+    "kana": "アイシー",
+    "meaning": "なぜ〜か分かった / なるほど",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "218",
+    "eng": "Tell me...",
+    "kana": "テルミー",
+    "meaning": "〜か教えて",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "219",
+    "eng": "Let me know...",
+    "kana": "レッミーノゥ",
+    "meaning": "〜か教えてね",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "220",
+    "eng": "Do you know...?",
+    "kana": "ドゥーユーノウ",
+    "meaning": "〜か知ってる？",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "221",
+    "eng": "Can you tell me...?",
+    "kana": "キャンユーテルミー",
+    "meaning": "〜か教えてもらえますか？",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "222",
+    "eng": "Do you remember...?",
+    "kana": "ドゥーユーリメンバー",
+    "meaning": "〜だったか覚えてる？",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "223",
+    "eng": "I checked...",
+    "kana": "アイチェクトゥ",
+    "meaning": "〜か確認した",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "224",
+    "eng": "I'm thinking...",
+    "kana": "アムシンキン",
+    "meaning": "〜か考えている",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "225",
+    "eng": "I decided...",
+    "kana": "アイディサイディッ",
+    "meaning": "〜か決めた",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "226",
+    "eng": "I can see...",
+    "kana": "アイキャンシー",
+    "meaning": "なぜ〜かよく分かる",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "227",
+    "eng": "I remember...",
+    "kana": "アイリメンバー",
+    "meaning": "〜だったか覚えている",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "228",
+    "eng": "I forget...",
+    "kana": "アイフォーゲッ",
+    "meaning": "〜だったか忘れた",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "229",
+    "eng": "I don't care...",
+    "kana": "アイドンケア",
+    "meaning": "〜でも気にしない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "230",
+    "eng": "I can't tell...",
+    "kana": "アイキャンテル",
+    "meaning": "〜か（見分けが）つかない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "231",
+    "eng": "It depends on...",
+    "kana": "イッディペンズオン",
+    "meaning": "〜次第だね",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "232",
+    "eng": "That's...",
+    "kana": "ザッツ",
+    "meaning": "それが〜ってことだよ",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "233",
+    "eng": "That's not...",
+    "kana": "ザッツナッ",
+    "meaning": "それは〜ってことじゃない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "234",
+    "eng": "This is...",
+    "kana": "ディスィズ",
+    "meaning": "これが〜な理由です",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "235",
+    "eng": "Can you see...?",
+    "kana": "キャンユーシー",
+    "meaning": "〜か見える？ / 分かる？",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "236",
+    "eng": "Guess...",
+    "kana": "ゲス",
+    "meaning": "〜か当ててみて！",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "237",
+    "eng": "I'm not sure...",
+    "kana": "アムナッシュア",
+    "meaning": "〜かハッキリ分からない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "238",
+    "eng": "I don't see...",
+    "kana": "アイドンシー",
+    "meaning": "なぜ〜なのか見当がつかない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "239",
+    "eng": "It doesn't matter...",
+    "kana": "イッダズンマラー",
+    "meaning": "〜でも関係ない",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "240",
+    "eng": "The question is...",
+    "kana": "ダクエスチョンィズ",
+    "meaning": "問題は〜かどうかだ",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "241",
+    "eng": "You'll see...",
+    "kana": "ユールシー",
+    "meaning": "今に〜か分かるよ",
+    "next_form": "WH節（疑問詞＋文）"
+  },
+  {
+    "type": "Type 5",
+    "no": "242",
+    "eng": "[動詞] how [形容詞 名詞 is/are]",
+    "kana": "（動詞）ハウ（形容詞）（名詞）イズ",
+    "meaning": "（名詞）がどれだけ（形容詞）なのかを（動詞）する",
+    "next_form": "WH感嘆文の塊"
+  },
+  {
+    "type": "Type 5",
+    "no": "243",
+    "eng": "It depends on...",
+    "kana": "イッ ディペンズ オン",
+    "meaning": "それは〜次第だね（※既存No.20の表記微調整版）",
+    "next_form": "WH節（whatなど）"
+  },
+  {
+    "type": "Type 5",
+    "no": "244",
+    "eng": "No matter how...",
+    "kana": "ノゥ マラー ハウ",
+    "meaning": "どんなに〜だとしても、どれほど〜でも",
+    "next_form": "WH節 / 形容詞＋文"
+  },
+  {
+    "type": "Type 5",
+    "no": "245",
+    "eng": "what you think",
+    "kana": "ワッ ユー シンク",
+    "meaning": "君がどう思うか（君の意見）",
+    "next_form": "思考・日常"
+  },
+  {
+    "type": "Type 5",
+    "no": "246",
+    "eng": "what I was gonna do",
+    "kana": "ワッ アイ ワズ ガナ ドゥ",
+    "meaning": "自分が何しようとしていたか",
+    "next_form": "日常・物忘れ"
+  },
+  {
+    "type": "Type 5",
+    "no": "247",
+    "eng": "what he wants",
+    "kana": "ワッ ヒー ウォンツ",
+    "meaning": "彼が何を欲しがっているか",
+    "next_form": "日常・人間関係"
+  },
+  {
+    "type": "Type 5",
+    "no": "248",
+    "eng": "The reason I do sth is...",
+    "kana": "ダ リーズン アイ ドゥ 〜 イズ",
+    "meaning": "私が〜する理由は…だ",
+    "next_form": "特殊・説明公式"
+  },
+  {
+    "type": "Type 5",
+    "no": "249",
+    "eng": "What I like about X is Y",
+    "kana": "ワッ アイ ライク アバウト 〜 イズ 〜",
+    "meaning": "Xについて私が好きなところはYだ",
+    "next_form": "特殊・感情表現"
+  }
+]

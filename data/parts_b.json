@@ -1,0 +1,5754 @@
+[
+  {
+    "type": "Type 1",
+    "no": "1",
+    "eng": "meet the deadline",
+    "kana": "ミーダデッ(ド)ライン",
+    "meaning": "締め切りを守る",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 1",
+    "no": "2",
+    "eng": "hit my target",
+    "kana": "ヒッマイターゲッ(ト)",
+    "meaning": "目標を達成する",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 1",
+    "no": "3",
+    "eng": "run it by my boss",
+    "kana": "ラニッバイマイボス",
+    "meaning": "ボスに一度お伺いを立てる",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 1",
+    "no": "4",
+    "eng": "sign off on it",
+    "kana": "サインオファニッ(ト)",
+    "meaning": "（書類や案件を）承認する",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 1",
+    "no": "5",
+    "eng": "take time off",
+    "kana": "テイクタイムオフ",
+    "meaning": "休みを取る",
+    "category": "日常・セルフケア"
+  },
+  {
+    "type": "Type 1",
+    "no": "6",
+    "eng": "hit the gym",
+    "kana": "ヒッダジム",
+    "meaning": "ジムに行く（筋トレする）",
+    "category": "日常・セルフケア"
+  },
+  {
+    "type": "Type 1",
+    "no": "7",
+    "eng": "get my hair cut",
+    "kana": "ゲッマイヘアカッ(ト)",
+    "meaning": "髪を切りに行く",
+    "category": "日常・つぶやき"
+  },
+  {
+    "type": "Type 1",
+    "no": "8",
+    "eng": "do overtime",
+    "kana": "ドゥオーヴァータイム",
+    "meaning": "残業する",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 1",
+    "no": "9",
+    "eng": "change jobs",
+    "kana": "チェインジジョブズ",
+    "meaning": "転職する",
+    "category": "ビジネス・キャリア"
+  },
+  {
+    "type": "Type 1",
+    "no": "10",
+    "eng": "go out on my own",
+    "kana": "ゴーアウタマィオウン",
+    "meaning": "独立する / 起業する",
+    "category": "ビジネス・キャリア"
+  },
+  {
+    "type": "Type 1",
+    "no": "11",
+    "eng": "work harder",
+    "kana": "ワークハーダー",
+    "meaning": "もっと一生懸命働く",
+    "category": "比較級・日常"
+  },
+  {
+    "type": "Type 1",
+    "no": "12",
+    "eng": "jump into my arms",
+    "kana": "ジャンプイントゥマイアームズ",
+    "meaning": "私の腕に飛び込んでくる",
+    "category": "VTuber・リアルセリフ"
+  },
+  {
+    "type": "Type 1",
+    "no": "13",
+    "eng": "pick out the correct outfit",
+    "kana": "ピックアウッダコレクトアウトフィット",
+    "meaning": "正しい（TPOに合った）服を選ぶ",
+    "category": "日常・モテ技術"
+  },
+  {
+    "type": "Type 1",
+    "no": "14",
+    "eng": "get reservation",
+    "kana": "ゲッレザヴェィション",
+    "meaning": "予約を勝ち取る",
+    "category": "日常・つぶやき"
+  },
+  {
+    "type": "Type 1",
+    "no": "15",
+    "eng": "repair this armor",
+    "kana": "リペアディスアーマー",
+    "meaning": "この防具を修理する",
+    "category": "ゲーム実況・マイクラ"
+  },
+  {
+    "type": "Type 4",
+    "no": "1",
+    "eng": "it will work",
+    "kana": "イッウィルワーク",
+    "meaning": "それがうまくいく",
+    "category": "日常・つぶやき"
+  },
+  {
+    "type": "Type 4",
+    "no": "2",
+    "eng": "he will sign off on it",
+    "kana": "ヒーウィルサインオファニッ(ト)",
+    "meaning": "彼がそれを承認してくれる",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 4",
+    "no": "3",
+    "eng": "we can turn a profit",
+    "kana": "ウィキャンターナプロフィッ(ト)",
+    "meaning": "うちの会社が利益を出せる",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 4",
+    "no": "4",
+    "eng": "he remembered",
+    "kana": "ヒーリメンバー(ド)",
+    "meaning": "彼が（約束などを）覚えている",
+    "category": "日常・つぶやき"
+  },
+  {
+    "type": "Type 4",
+    "no": "5",
+    "eng": "it's gonna rain",
+    "kana": "イッツガナレイン",
+    "meaning": "雨が降る",
+    "category": "日常・天気"
+  },
+  {
+    "type": "Type 4",
+    "no": "6",
+    "eng": "they will agree",
+    "kana": "デイウィルアグリー",
+    "meaning": "彼らが合意してくれる",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 4",
+    "no": "7",
+    "eng": "he is telling the truth",
+    "kana": "ヒーイズテリングダトゥルース",
+    "meaning": "彼が本当のことを言っている",
+    "category": "日常・人間関係"
+  },
+  {
+    "type": "Type 4",
+    "no": "8",
+    "eng": "we can meet the deadline",
+    "kana": "ウィキャンミーダデッ(ド)ライン",
+    "meaning": "締め切りに間に合う",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 4",
+    "no": "9",
+    "eng": "anyone knows the answer",
+    "kana": "エニワンノウズダアンサー",
+    "meaning": "誰かがその答えを知っている",
+    "category": "日常・つぶやき"
+  },
+  {
+    "type": "Type 4",
+    "no": "10",
+    "eng": "it's worth the price",
+    "kana": "イッツワースダプライス",
+    "meaning": "価格に見合う価値がある",
+    "category": "日常・買い物"
+  },
+  {
+    "type": "Type 4",
+    "no": "11",
+    "eng": "this one's a fighter",
+    "kana": "ディスワンズァファイター",
+    "meaning": "こいつはなかなかのファイターだ",
+    "category": "ゲーム実況・釣り"
+  },
+  {
+    "type": "Type 4",
+    "no": "12",
+    "eng": "it will work better",
+    "kana": "イッウィルワークベラ",
+    "meaning": "もっとうまくいく",
+    "category": "比較級・日常"
+  },
+  {
+    "type": "Type 4",
+    "no": "13",
+    "eng": "a girl that has a house",
+    "kana": "ァガールダッハズァハウス",
+    "meaning": "家を持ってる女の子",
+    "category": "比較級・マイクラ"
+  },
+  {
+    "type": "Type 4",
+    "no": "14",
+    "eng": "it takes me like 30 minutes",
+    "kana": "イッテイクスミーライクサーティミニッツ",
+    "meaning": "30分くらい平気で持ってかれる",
+    "category": "日常・ゲームあるある"
+  },
+  {
+    "type": "Type 4",
+    "no": "15",
+    "eng": "I'm not trying to be late",
+    "kana": "アムナッチャイントゥービーレィ(ト)",
+    "meaning": "遅刻したくて遅れてるわけじゃない",
+    "category": "配信者・本音の愚痴"
+  },
+  {
+    "type": "Type 2",
+    "no": "1",
+    "eng": "cutting corners",
+    "kana": "カッティンコーナァズ",
+    "meaning": "手抜きをする / 妥協する",
+    "category": "日常・本質突っ込み"
+  },
+  {
+    "type": "Type 2",
+    "no": "2",
+    "eng": "regretting it now",
+    "kana": "リグレッティンイッナウ",
+    "meaning": "今さら後悔する",
+    "category": "日常・本質突っ込み"
+  },
+  {
+    "type": "Type 2",
+    "no": "3",
+    "eng": "arguing about it",
+    "kana": "アーギュインアバウティッ(ト)",
+    "meaning": "それについて言い争う",
+    "category": "日常・人間関係"
+  },
+  {
+    "type": "Type 2",
+    "no": "4",
+    "eng": "cooking the books",
+    "kana": "クッキンダブックス",
+    "meaning": "不正会計をする / 帳簿をごまかす",
+    "category": "日常・スラング"
+  },
+  {
+    "type": "Type 2",
+    "no": "5",
+    "eng": "trying to please everyone",
+    "kana": "トライイントゥプリーズエブリワン",
+    "meaning": "八方美人になる / 全員に好かれようとする",
+    "category": "日常・人間関係"
+  },
+  {
+    "type": "Type 2",
+    "no": "6",
+    "eng": "worrying about the future",
+    "kana": "ワリインアバウッダフューチャー",
+    "meaning": "将来を不安がる",
+    "category": "日常・メンタル"
+  },
+  {
+    "type": "Type 2",
+    "no": "7",
+    "eng": "buying expensive gear",
+    "kana": "バイインイクスペンシブギア",
+    "meaning": "（形から入って）高い道具を買う",
+    "category": "日常・趣味"
+  },
+  {
+    "type": "Type 2",
+    "no": "8",
+    "eng": "splitting the bill",
+    "kana": "スプリッティンダビル",
+    "meaning": "ワリカンにする",
+    "category": "日常・食事"
+  },
+  {
+    "type": "Type 2",
+    "no": "9",
+    "eng": "procrastinating",
+    "kana": "プロクラスティネイティン",
+    "meaning": "（やるべきことを）先延ばしにする",
+    "category": "日常・つぶやき"
+  },
+  {
+    "type": "Type 2",
+    "no": "10",
+    "eng": "wasting the ice cream",
+    "kana": "ウェイスティンダアイスクリーム",
+    "meaning": "アイスクリームを無駄にする",
+    "category": "VTuber・リアルセリフ"
+  },
+  {
+    "type": "Type 2",
+    "no": "11",
+    "eng": "being so patient",
+    "kana": "ビィインソゥペィシェント",
+    "meaning": "辛抱強く待っていてくれる",
+    "category": "日常・超頻出"
+  },
+  {
+    "type": "Type 2",
+    "no": "12",
+    "eng": "plain white rice a bit more",
+    "kana": "プレィンホワィ(ト)ライスァビッ(ト)モア",
+    "meaning": "普通の白いご飯の方がちょっと好き",
+    "category": "比較級・食のこだわり"
+  },
+  {
+    "type": "Type 2",
+    "no": "13",
+    "eng": "living vicariously",
+    "kana": "リヴィンヴァィケアリァスリィ",
+    "meaning": "（写真などを通じて）代理で楽しむ",
+    "category": "大人の日常表現"
+  },
+  {
+    "type": "Type 2",
+    "no": "14",
+    "eng": "waking up / sleepy",
+    "kana": "ウェイキナッ / スリィピィ",
+    "meaning": "目が覚めきってない / 眠い状態",
+    "category": "日常・寝起き"
+  },
+  {
+    "type": "Type 2",
+    "no": "15",
+    "eng": "opening a bottle",
+    "kana": "オープニナボトル",
+    "meaning": "ペットボトルのキャップを開ける",
+    "category": "日常・筋肉痛あるある"
+  },
+  {
+    "type": "Type 3",
+    "no": "1",
+    "eng": "done by now",
+    "kana": "ダンバイナウ",
+    "meaning": "今頃にはもう終わっている",
+    "category": "ビジネス・予定確信"
+  },
+  {
+    "type": "Type 3",
+    "no": "2",
+    "eng": "fixed by tomorrow",
+    "kana": "フィックストゥバイトゥモロー",
+    "meaning": "明日までには直っている",
+    "category": "ビジネス・予定確信"
+  },
+  {
+    "type": "Type 3",
+    "no": "3",
+    "eng": "delivered on time",
+    "kana": "デリヴァードオンタイム",
+    "meaning": "時間通りに配達されている",
+    "category": "日常・物流"
+  },
+  {
+    "type": "Type 3",
+    "no": "4",
+    "eng": "signed off on",
+    "kana": "サインドオファニッ(ト)",
+    "meaning": "（案件が）承認されている",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 3",
+    "no": "5",
+    "eng": "approved",
+    "kana": "アプルーヴド",
+    "meaning": "可決されている / 許可されている",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 3",
+    "no": "6",
+    "eng": "updated",
+    "kana": "アップデイティッド",
+    "meaning": "（データや在庫が）更新されている",
+    "category": "ビジネス・IT"
+  },
+  {
+    "type": "Type 3",
+    "no": "7",
+    "eng": "canceled",
+    "kana": "キャンセルド",
+    "meaning": "（ミーティング等が）中止になっている",
+    "category": "ビジネス・頻出"
+  },
+  {
+    "type": "Type 3",
+    "no": "8",
+    "eng": "sent out",
+    "kana": "セントアウト",
+    "meaning": "（メールや書類が）発送されている",
+    "category": "ビジネス・頻出"
+  },
+  {
+    "type": "Type 3",
+    "no": "9",
+    "eng": "sidetracked",
+    "kana": "サィドトラック(ト)",
+    "meaning": "（予定から）横道に逸れた / 脱線した",
+    "category": "日常・ゲームあるある"
+  },
+  {
+    "type": "Type 3",
+    "no": "10",
+    "eng": "scammed",
+    "kana": "スカムド",
+    "meaning": "詐欺られた / ハメられた",
+    "category": "日常・ゲームスラング"
+  },
+  {
+    "type": "Type 3",
+    "no": "11",
+    "eng": "really really wanted",
+    "kana": "リアリィリアリィウォンティッ(ト)",
+    "meaning": "本当に、ずーーっと欲しかった",
+    "category": "感情表現・夢が叶った瞬間"
+  },
+  {
+    "type": "Type 5",
+    "no": "1",
+    "eng": "when you are free",
+    "kana": "ウェンユーアーフリー",
+    "meaning": "いつ空いているか",
+    "category": "ビジネスメール・チャット"
+  },
+  {
+    "type": "Type 5",
+    "no": "2",
+    "eng": "how it goes",
+    "kana": "ハウイッゴーズ",
+    "meaning": "（プロジェクト等が）どんな感じに進むか",
+    "category": "ビジネスメール・チャット"
+  },
+  {
+    "type": "Type 5",
+    "no": "3",
+    "eng": "what you think",
+    "kana": "ワッユーシンク",
+    "meaning": "どう思うか（君の意見）",
+    "category": "日常・ビジネス"
+  },
+  {
+    "type": "Type 5",
+    "no": "4",
+    "eng": "where we should meet",
+    "kana": "ウェアウィーシュッミー(ト)",
+    "meaning": "どこで落ち合うべきか",
+    "category": "日常・待ち合わせ"
+  },
+  {
+    "type": "Type 5",
+    "no": "5",
+    "eng": "why it happened",
+    "kana": "ワィイッハプンド",
+    "meaning": "なぜそれが起きたのか（原因）",
+    "category": "日常・トラブル"
+  },
+  {
+    "type": "Type 5",
+    "no": "6",
+    "eng": "who is in charge",
+    "kana": "フーイズインチャージ",
+    "meaning": "誰が担当者なのか",
+    "category": "ビジネス・鉄板"
+  },
+  {
+    "type": "Type 5",
+    "no": "7",
+    "eng": "if it's out or not",
+    "kana": "イフイッツアウタナッ",
+    "meaning": "（アプデ等が）もう出てるか出てないか",
+    "category": "日常・ゲーム実況"
+  },
+  {
+    "type": "Type 5",
+    "no": "8",
+    "eng": "what I was gonna do",
+    "kana": "ワッアイワズガナドゥ",
+    "meaning": "自分が何しようとしていたか",
+    "category": "日常・物忘れあるある"
+  },
+  {
+    "type": "Type 5",
+    "no": "9",
+    "eng": "which one you prefer",
+    "kana": "ウィッチワンユープリファー",
+    "meaning": "どっちが好みか（比較）",
+    "category": "日常・食事"
+  },
+  {
+    "type": "Type 5",
+    "no": "10",
+    "eng": "if it's okay",
+    "kana": "イフイッツオーケイ",
+    "meaning": "それで大丈夫かどうか",
+    "category": "日常・確認"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be glad",
+    "kana": "happy",
+    "meaning": "嬉しい、満足している状態",
+    "category": "嬉しい、満足している状態"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being glad",
+    "kana": "happy",
+    "meaning": "嬉しい、満足している状態",
+    "category": "嬉しい、満足している状態"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been glad",
+    "kana": "happy",
+    "meaning": "嬉しい、満足している状態",
+    "category": "嬉しい、満足している状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be stoked",
+    "kana": "happy",
+    "meaning": "ワクワクする、楽しみで仕方ない（元はサーファー用語）",
+    "category": "ワクワクする、楽しみで仕方ない（元はサーファー用語）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being stoked",
+    "kana": "happy",
+    "meaning": "ワクワクする、楽しみで仕方ない（元はサーファー用語）",
+    "category": "ワクワクする、楽しみで仕方ない（元はサーファー用語）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been stoked",
+    "kana": "happy",
+    "meaning": "ワクワクする、楽しみで仕方ない（元はサーファー用語）",
+    "category": "ワクワクする、楽しみで仕方ない（元はサーファー用語）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be down",
+    "kana": "sad",
+    "meaning": "落ち込んでいる、気分が沈んでいる",
+    "category": "落ち込んでいる、気分が沈んでいる"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being down",
+    "kana": "sad",
+    "meaning": "落ち込んでいる、気分が沈んでいる",
+    "category": "落ち込んでいる、気分が沈んでいる"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been down",
+    "kana": "sad",
+    "meaning": "落ち込んでいる、気分が沈んでいる",
+    "category": "落ち込んでいる、気分が沈んでいる"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be bummed",
+    "kana": "sad",
+    "meaning": "がっかりした、落ち込んだ（bumはホームレスを指す言葉が由来）",
+    "category": "がっかりした、落ち込んだ（bumはホームレスを指す言葉が由来）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being bummed",
+    "kana": "sad",
+    "meaning": "がっかりした、落ち込んだ（bumはホームレスを指す言葉が由来）",
+    "category": "がっかりした、落ち込んだ（bumはホームレスを指す言葉が由来）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been bummed",
+    "kana": "sad",
+    "meaning": "がっかりした、落ち込んだ（bumはホームレスを指す言葉が由来）",
+    "category": "がっかりした、落ち込んだ（bumはホームレスを指す言葉が由来）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be quick",
+    "kana": "fast",
+    "meaning": "頭の回転が速い、または動作の反応が瞬間的に速い",
+    "category": "頭の回転が速い、または動作の反応が瞬間的に速い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being quick",
+    "kana": "fast",
+    "meaning": "頭の回転が速い、または動作の反応が瞬間的に速い",
+    "category": "頭の回転が速い、または動作の反応が瞬間的に速い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been quick",
+    "kana": "fast",
+    "meaning": "頭の回転が速い、または動作の反応が瞬間的に速い",
+    "category": "頭の回転が速い、または動作の反応が瞬間的に速い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be speedy",
+    "kana": "fast",
+    "meaning": "返信や対応などが迅速なこと",
+    "category": "返信や対応などが迅速なこと"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being speedy",
+    "kana": "fast",
+    "meaning": "返信や対応などが迅速なこと",
+    "category": "返信や対応などが迅速なこと"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been speedy",
+    "kana": "fast",
+    "meaning": "返信や対応などが迅速なこと",
+    "category": "返信や対応などが迅速なこと"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be shiny",
+    "kana": "bright",
+    "meaning": "光り輝いている、ツヤがある",
+    "category": "光り輝いている、ツヤがある"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being shiny",
+    "kana": "bright",
+    "meaning": "光り輝いている、ツヤがある",
+    "category": "光り輝いている、ツヤがある"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been shiny",
+    "kana": "bright",
+    "meaning": "光り輝いている、ツヤがある",
+    "category": "光り輝いている、ツヤがある"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be vibrant",
+    "kana": "bright",
+    "meaning": "活気のある、色が鮮やかな（vibrate=震えるが由来）",
+    "category": "活気のある、色が鮮やかな（vibrate=震えるが由来）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being vibrant",
+    "kana": "bright",
+    "meaning": "活気のある、色が鮮やかな（vibrate=震えるが由来）",
+    "category": "活気のある、色が鮮やかな（vibrate=震えるが由来）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been vibrant",
+    "kana": "bright",
+    "meaning": "活気のある、色が鮮やかな（vibrate=震えるが由来）",
+    "category": "活気のある、色が鮮やかな（vibrate=震えるが由来）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be dim",
+    "kana": "dark",
+    "meaning": "薄暗い、または元気がない様子",
+    "category": "薄暗い、または元気がない様子"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being dim",
+    "kana": "dark",
+    "meaning": "薄暗い、または元気がない様子",
+    "category": "薄暗い、または元気がない様子"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been dim",
+    "kana": "dark",
+    "meaning": "薄暗い、または元気がない様子",
+    "category": "薄暗い、または元気がない様子"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be gloomy",
+    "kana": "dark",
+    "meaning": "どんよりした暗さ、悲しい・不快な感情を含む暗さ",
+    "category": "どんよりした暗さ、悲しい・不快な感情を含む暗さ"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being gloomy",
+    "kana": "dark",
+    "meaning": "どんよりした暗さ、悲しい・不快な感情を含む暗さ",
+    "category": "どんよりした暗さ、悲しい・不快な感情を含む暗さ"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been gloomy",
+    "kana": "dark",
+    "meaning": "どんよりした暗さ、悲しい・不快な感情を含む暗さ",
+    "category": "どんよりした暗さ、悲しい・不快な感情を含む暗さ"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be huge",
+    "kana": "big",
+    "meaning": "「大きい」を強調した、巨大な",
+    "category": "「大きい」を強調した、巨大な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being huge",
+    "kana": "big",
+    "meaning": "「大きい」を強調した、巨大な",
+    "category": "「大きい」を強調した、巨大な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been huge",
+    "kana": "big",
+    "meaning": "「大きい」を強調した、巨大な",
+    "category": "「大きい」を強調した、巨大な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be massive",
+    "kana": "big",
+    "meaning": "巨大な、ずっしりと大きい（氷山や船、盛り盛りの料理など）",
+    "category": "巨大な、ずっしりと大きい（氷山や船、盛り盛りの料理など）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being massive",
+    "kana": "big",
+    "meaning": "巨大な、ずっしりと大きい（氷山や船、盛り盛りの料理など）",
+    "category": "巨大な、ずっしりと大きい（氷山や船、盛り盛りの料理など）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been massive",
+    "kana": "big",
+    "meaning": "巨大な、ずっしりと大きい（氷山や船、盛り盛りの料理など）",
+    "category": "巨大な、ずっしりと大きい（氷山や船、盛り盛りの料理など）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be tiny",
+    "kana": "small",
+    "meaning": "非常に小さい、極めて小さい",
+    "category": "非常に小さい、極めて小さい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being tiny",
+    "kana": "small",
+    "meaning": "非常に小さい、極めて小さい",
+    "category": "非常に小さい、極めて小さい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been tiny",
+    "kana": "small",
+    "meaning": "非常に小さい、極めて小さい",
+    "category": "非常に小さい、極めて小さい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be petite",
+    "kana": "small",
+    "meaning": "（人に対して）小柄な、かわいらしく小さい",
+    "category": "（人に対して）小柄な、かわいらしく小さい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being petite",
+    "kana": "small",
+    "meaning": "（人に対して）小柄な、かわいらしく小さい",
+    "category": "（人に対して）小柄な、かわいらしく小さい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been petite",
+    "kana": "small",
+    "meaning": "（人に対して）小柄な、かわいらしく小さい",
+    "category": "（人に対して）小柄な、かわいらしく小さい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be boiling",
+    "kana": "hot",
+    "meaning": "沸騰するほど熱い、バテバテになるほど暑い",
+    "category": "沸騰するほど熱い、バテバテになるほど暑い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being boiling",
+    "kana": "hot",
+    "meaning": "沸騰するほど熱い、バテバテになるほど暑い",
+    "category": "沸騰するほど熱い、バテバテになるほど暑い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been boiling",
+    "kana": "hot",
+    "meaning": "沸騰するほど熱い、バテバテになるほど暑い",
+    "category": "沸騰するほど熱い、バテバテになるほど暑い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be scorching",
+    "kana": "hot",
+    "meaning": "焼けるように熱い、非常に強い熱さ",
+    "category": "焼けるように熱い、非常に強い熱さ"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being scorching",
+    "kana": "hot",
+    "meaning": "焼けるように熱い、非常に強い熱さ",
+    "category": "焼けるように熱い、非常に強い熱さ"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been scorching",
+    "kana": "hot",
+    "meaning": "焼けるように熱い、非常に強い熱さ",
+    "category": "焼けるように熱い、非常に強い熱さ"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be chilly",
+    "kana": "cold",
+    "meaning": "肌寒い、やや寒い",
+    "category": "肌寒い、やや寒い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being chilly",
+    "kana": "cold",
+    "meaning": "肌寒い、やや寒い",
+    "category": "肌寒い、やや寒い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been chilly",
+    "kana": "cold",
+    "meaning": "肌寒い、やや寒い",
+    "category": "肌寒い、やや寒い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be freezing",
+    "kana": "cold",
+    "meaning": "凍るような、非常に寒い",
+    "category": "凍るような、非常に寒い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being freezing",
+    "kana": "cold",
+    "meaning": "凍るような、非常に寒い",
+    "category": "凍るような、非常に寒い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been freezing",
+    "kana": "cold",
+    "meaning": "凍るような、非常に寒い",
+    "category": "凍るような、非常に寒い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be brand-new",
+    "kana": "new",
+    "meaning": "新品、全く使われていない状態",
+    "category": "新品、全く使われていない状態"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being brand-new",
+    "kana": "new",
+    "meaning": "新品、全く使われていない状態",
+    "category": "新品、全く使われていない状態"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been brand-new",
+    "kana": "new",
+    "meaning": "新品、全く使われていない状態",
+    "category": "新品、全く使われていない状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be fresh",
+    "kana": "new",
+    "meaning": "新鮮な、出来たての、または爽やかな感じ",
+    "category": "新鮮な、出来たての、または爽やかな感じ"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being fresh",
+    "kana": "new",
+    "meaning": "新鮮な、出来たての、または爽やかな感じ",
+    "category": "新鮮な、出来たての、または爽やかな感じ"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been fresh",
+    "kana": "new",
+    "meaning": "新鮮な、出来たての、または爽やかな感じ",
+    "category": "新鮮な、出来たての、または爽やかな感じ"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be ancient",
+    "kana": "old",
+    "meaning": "ものすごく古い（本来は「古代の」だが日常でよく使う）",
+    "category": "ものすごく古い（本来は「古代の」だが日常でよく使う）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being ancient",
+    "kana": "old",
+    "meaning": "ものすごく古い（本来は「古代の」だが日常でよく使う）",
+    "category": "ものすごく古い（本来は「古代の」だが日常でよく使う）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been ancient",
+    "kana": "old",
+    "meaning": "ものすごく古い（本来は「古代の」だが日常でよく使う）",
+    "category": "ものすごく古い（本来は「古代の」だが日常でよく使う）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be outdated",
+    "kana": "old",
+    "meaning": "時代遅れの、旧式の",
+    "category": "時代遅れの、旧式の"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being outdated",
+    "kana": "old",
+    "meaning": "時代遅れの、旧式の",
+    "category": "時代遅れの、旧式の"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been outdated",
+    "kana": "old",
+    "meaning": "時代遅れの、旧式の",
+    "category": "時代遅れの、旧式の"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be great",
+    "kana": "good",
+    "meaning": "（ジャケットなどが）良い、素晴らしい",
+    "category": "（ジャケットなどが）良い、素晴らしい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being great",
+    "kana": "good",
+    "meaning": "（ジャケットなどが）良い、素晴らしい",
+    "category": "（ジャケットなどが）良い、素晴らしい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been great",
+    "kana": "good",
+    "meaning": "（ジャケットなどが）良い、素晴らしい",
+    "category": "（ジャケットなどが）良い、素晴らしい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be awesome",
+    "kana": "good",
+    "meaning": "最高、すごい（カジュアルに多用される）",
+    "category": "最高、すごい（カジュアルに多用される）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being awesome",
+    "kana": "good",
+    "meaning": "最高、すごい（カジュアルに多用される）",
+    "category": "最高、すごい（カジュアルに多用される）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been awesome",
+    "kana": "good",
+    "meaning": "最高、すごい（カジュアルに多用される）",
+    "category": "最高、すごい（カジュアルに多用される）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be neato",
+    "kana": "good",
+    "meaning": "素晴らしい、かっこいい（カジュアルなスラング）",
+    "category": "素晴らしい、かっこいい（カジュアルなスラング）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being neato",
+    "kana": "good",
+    "meaning": "素晴らしい、かっこいい（カジュアルなスラング）",
+    "category": "素晴らしい、かっこいい（カジュアルなスラング）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been neato",
+    "kana": "good",
+    "meaning": "素晴らしい、かっこいい（カジュアルなスラング）",
+    "category": "素晴らしい、かっこいい（カジュアルなスラング）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be awful",
+    "kana": "bad",
+    "meaning": "非常に悪い、ひどい（味やニュースなど）",
+    "category": "非常に悪い、ひどい（味やニュースなど）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being awful",
+    "kana": "bad",
+    "meaning": "非常に悪い、ひどい（味やニュースなど）",
+    "category": "非常に悪い、ひどい（味やニュースなど）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been awful",
+    "kana": "bad",
+    "meaning": "非常に悪い、ひどい（味やニュースなど）",
+    "category": "非常に悪い、ひどい（味やニュースなど）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be terrible",
+    "kana": "bad",
+    "meaning": "ひどい、劣悪な",
+    "category": "ひどい、劣悪な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being terrible",
+    "kana": "bad",
+    "meaning": "ひどい、劣悪な",
+    "category": "ひどい、劣悪な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been terrible",
+    "kana": "bad",
+    "meaning": "ひどい、劣悪な",
+    "category": "ひどい、劣悪な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be horrible",
+    "kana": "bad",
+    "meaning": "恐ろしい、ぞっとするような悪さ",
+    "category": "恐ろしい、ぞっとするような悪さ"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being horrible",
+    "kana": "bad",
+    "meaning": "恐ろしい、ぞっとするような悪さ",
+    "category": "恐ろしい、ぞっとするような悪さ"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been horrible",
+    "kana": "bad",
+    "meaning": "恐ろしい、ぞっとするような悪さ",
+    "category": "恐ろしい、ぞっとするような悪さ"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be tough",
+    "kana": "strong",
+    "meaning": "たくましい、頑丈な",
+    "category": "たくましい、頑丈な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being tough",
+    "kana": "strong",
+    "meaning": "たくましい、頑丈な",
+    "category": "たくましい、頑丈な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been tough",
+    "kana": "strong",
+    "meaning": "たくましい、頑丈な",
+    "category": "たくましい、頑丈な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be solid",
+    "kana": "strong",
+    "meaning": "物理的にしっかりした、または成績や成果が見事な",
+    "category": "物理的にしっかりした、または成績や成果が見事な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being solid",
+    "kana": "strong",
+    "meaning": "物理的にしっかりした、または成績や成果が見事な",
+    "category": "物理的にしっかりした、または成績や成果が見事な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been solid",
+    "kana": "strong",
+    "meaning": "物理的にしっかりした、または成績や成果が見事な",
+    "category": "物理的にしっかりした、または成績や成果が見事な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be flimsy",
+    "kana": "weak",
+    "meaning": "薄くて弱い、耐久性がない、不安定な",
+    "category": "薄くて弱い、耐久性がない、不安定な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being flimsy",
+    "kana": "weak",
+    "meaning": "薄くて弱い、耐久性がない、不安定な",
+    "category": "薄くて弱い、耐久性がない、不安定な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been flimsy",
+    "kana": "weak",
+    "meaning": "薄くて弱い、耐久性がない、不安定な",
+    "category": "薄くて弱い、耐久性がない、不安定な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be fragile",
+    "kana": "weak",
+    "meaning": "壊れやすい、もろい、繊細な",
+    "category": "壊れやすい、もろい、繊細な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being fragile",
+    "kana": "weak",
+    "meaning": "壊れやすい、もろい、繊細な",
+    "category": "壊れやすい、もろい、繊細な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been fragile",
+    "kana": "weak",
+    "meaning": "壊れやすい、もろい、繊細な",
+    "category": "壊れやすい、もろい、繊細な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be simple",
+    "kana": "easy",
+    "meaning": "構造が簡単な、単純な",
+    "category": "構造が簡単な、単純な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being simple",
+    "kana": "easy",
+    "meaning": "構造が簡単な、単純な",
+    "category": "構造が簡単な、単純な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been simple",
+    "kana": "easy",
+    "meaning": "構造が簡単な、単純な",
+    "category": "構造が簡単な、単純な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be no sweat",
+    "kana": "easy",
+    "meaning": "楽勝な、苦労しない（汗をかかないほど簡単）",
+    "category": "楽勝な、苦労しない（汗をかかないほど簡単）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being no sweat",
+    "kana": "easy",
+    "meaning": "楽勝な、苦労しない（汗をかかないほど簡単）",
+    "category": "楽勝な、苦労しない（汗をかかないほど簡単）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been no sweat",
+    "kana": "easy",
+    "meaning": "楽勝な、苦労しない（汗をかかないほど簡単）",
+    "category": "楽勝な、苦労しない（汗をかかないほど簡単）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be tough",
+    "kana": "difficult",
+    "meaning": "厳しい、扱いが難しい",
+    "category": "厳しい、扱いが難しい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being tough",
+    "kana": "difficult",
+    "meaning": "厳しい、扱いが難しい",
+    "category": "厳しい、扱いが難しい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been tough",
+    "kana": "difficult",
+    "meaning": "厳しい、扱いが難しい",
+    "category": "厳しい、扱いが難しい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be tricky",
+    "kana": "difficult",
+    "meaning": "巧妙で複雑な、扱いが難しい、微妙な問題を含む",
+    "category": "巧妙で複雑な、扱いが難しい、微妙な問題を含む"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being tricky",
+    "kana": "difficult",
+    "meaning": "巧妙で複雑な、扱いが難しい、微妙な問題を含む",
+    "category": "巧妙で複雑な、扱いが難しい、微妙な問題を含む"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been tricky",
+    "kana": "difficult",
+    "meaning": "巧妙で複雑な、扱いが難しい、微妙な問題を含む",
+    "category": "巧妙で複雑な、扱いが難しい、微妙な問題を含む"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be fascinating",
+    "kana": "interesting",
+    "meaning": "魅力的で引き込まれる、非常に面白い",
+    "category": "魅力的で引き込まれる、非常に面白い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being fascinating",
+    "kana": "interesting",
+    "meaning": "魅力的で引き込まれる、非常に面白い",
+    "category": "魅力的で引き込まれる、非常に面白い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been fascinating",
+    "kana": "interesting",
+    "meaning": "魅力的で引き込まれる、非常に面白い",
+    "category": "魅力的で引き込まれる、非常に面白い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be neat",
+    "kana": "interesting",
+    "meaning": "（見たことがないような）面白い、素敵な",
+    "category": "（見たことがないような）面白い、素敵な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being neat",
+    "kana": "interesting",
+    "meaning": "（見たことがないような）面白い、素敵な",
+    "category": "（見たことがないような）面白い、素敵な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been neat",
+    "kana": "interesting",
+    "meaning": "（見たことがないような）面白い、素敵な",
+    "category": "（見たことがないような）面白い、素敵な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be dull",
+    "kana": "boring",
+    "meaning": "刺激がなく面白みがない、鈍い",
+    "category": "刺激がなく面白みがない、鈍い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being dull",
+    "kana": "boring",
+    "meaning": "刺激がなく面白みがない、鈍い",
+    "category": "刺激がなく面白みがない、鈍い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been dull",
+    "kana": "boring",
+    "meaning": "刺激がなく面白みがない、鈍い",
+    "category": "刺激がなく面白みがない、鈍い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be lame",
+    "kana": "boring",
+    "meaning": "つまらない、ダサい（カジュアルな表現）",
+    "category": "つまらない、ダサい（カジュアルな表現）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being lame",
+    "kana": "boring",
+    "meaning": "つまらない、ダサい（カジュアルな表現）",
+    "category": "つまらない、ダサい（カジュアルな表現）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been lame",
+    "kana": "boring",
+    "meaning": "つまらない、ダサい（カジュアルな表現）",
+    "category": "つまらない、ダサい（カジュアルな表現）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be loaded",
+    "kana": "rich",
+    "meaning": "めちゃくちゃお金持ち（お金が積まれているイメージ）",
+    "category": "めちゃくちゃお金持ち（お金が積まれているイメージ）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being loaded",
+    "kana": "rich",
+    "meaning": "めちゃくちゃお金持ち（お金が積まれているイメージ）",
+    "category": "めちゃくちゃお金持ち（お金が積まれているイメージ）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been loaded",
+    "kana": "rich",
+    "meaning": "めちゃくちゃお金持ち（お金が積まれているイメージ）",
+    "category": "めちゃくちゃお金持ち（お金が積まれているイメージ）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be wealthy",
+    "kana": "rich",
+    "meaning": "裕福な、お金持ちの",
+    "category": "裕福な、お金持ちの"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being wealthy",
+    "kana": "rich",
+    "meaning": "裕福な、お金持ちの",
+    "category": "裕福な、お金持ちの"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been wealthy",
+    "kana": "rich",
+    "meaning": "裕福な、お金持ちの",
+    "category": "裕福な、お金持ちの"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be broke",
+    "kana": "poor",
+    "meaning": "金欠の、一銭もない状態",
+    "category": "金欠の、一銭もない状態"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being broke",
+    "kana": "poor",
+    "meaning": "金欠の、一銭もない状態",
+    "category": "金欠の、一銭もない状態"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been broke",
+    "kana": "poor",
+    "meaning": "金欠の、一銭もない状態",
+    "category": "金欠の、一銭もない状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be penniless",
+    "kana": "poor",
+    "meaning": "一文無しの（ペニーすら無い）",
+    "category": "一文無しの（ペニーすら無い）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being penniless",
+    "kana": "poor",
+    "meaning": "一文無しの（ペニーすら無い）",
+    "category": "一文無しの（ペニーすら無い）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been penniless",
+    "kana": "poor",
+    "meaning": "一文無しの（ペニーすら無い）",
+    "category": "一文無しの（ペニーすら無い）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be spotless",
+    "kana": "clean",
+    "meaning": "シミ一つない、汚れが全くない",
+    "category": "シミ一つない、汚れが全くない"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being spotless",
+    "kana": "clean",
+    "meaning": "シミ一つない、汚れが全くない",
+    "category": "シミ一つない、汚れが全くない"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been spotless",
+    "kana": "clean",
+    "meaning": "シミ一つない、汚れが全くない",
+    "category": "シミ一つない、汚れが全くない"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be tidy",
+    "kana": "clean",
+    "meaning": "きれいに片付いた、すっきりした",
+    "category": "きれいに片付いた、すっきりした"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being tidy",
+    "kana": "clean",
+    "meaning": "きれいに片付いた、すっきりした",
+    "category": "きれいに片付いた、すっきりした"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been tidy",
+    "kana": "clean",
+    "meaning": "きれいに片付いた、すっきりした",
+    "category": "きれいに片付いた、すっきりした"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be grimy",
+    "kana": "dirty",
+    "meaning": "汚らしい、垢や汚れがついた",
+    "category": "汚らしい、垢や汚れがついた"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being grimy",
+    "kana": "dirty",
+    "meaning": "汚らしい、垢や汚れがついた",
+    "category": "汚らしい、垢や汚れがついた"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been grimy",
+    "kana": "dirty",
+    "meaning": "汚らしい、垢や汚れがついた",
+    "category": "汚らしい、垢や汚れがついた"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be filthy",
+    "kana": "dirty",
+    "meaning": "非常に汚い、または口が悪い",
+    "category": "非常に汚い、または口が悪い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being filthy",
+    "kana": "dirty",
+    "meaning": "非常に汚い、または口が悪い",
+    "category": "非常に汚い、または口が悪い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been filthy",
+    "kana": "dirty",
+    "meaning": "非常に汚い、または口が悪い",
+    "category": "非常に汚い、または口が悪い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be sky-high",
+    "kana": "tall",
+    "meaning": "めちゃくちゃ高い（空まで届くような）",
+    "category": "めちゃくちゃ高い（空まで届くような）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being sky-high",
+    "kana": "tall",
+    "meaning": "めちゃくちゃ高い（空まで届くような）",
+    "category": "めちゃくちゃ高い（空まで届くような）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been sky-high",
+    "kana": "tall",
+    "meaning": "めちゃくちゃ高い（空まで届くような）",
+    "category": "めちゃくちゃ高い（空まで届くような）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be lofty",
+    "kana": "tall",
+    "meaning": "（目標や木などが）高い（屋根裏のloftが由来）",
+    "category": "（目標や木などが）高い（屋根裏のloftが由来）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being lofty",
+    "kana": "tall",
+    "meaning": "（目標や木などが）高い（屋根裏のloftが由来）",
+    "category": "（目標や木などが）高い（屋根裏のloftが由来）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been lofty",
+    "kana": "tall",
+    "meaning": "（目標や木などが）高い（屋根裏のloftが由来）",
+    "category": "（目標や木などが）高い（屋根裏のloftが由来）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be brief",
+    "kana": "short",
+    "meaning": "簡潔な、短い（要約など）",
+    "category": "簡潔な、短い（要約など）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being brief",
+    "kana": "short",
+    "meaning": "簡潔な、短い（要約など）",
+    "category": "簡潔な、短い（要約など）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been brief",
+    "kana": "short",
+    "meaning": "簡潔な、短い（要約など）",
+    "category": "簡潔な、短い（要約など）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be compact",
+    "kana": "short",
+    "meaning": "小さいが効率的にまとまっている",
+    "category": "小さいが効率的にまとまっている"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being compact",
+    "kana": "short",
+    "meaning": "小さいが効率的にまとまっている",
+    "category": "小さいが効率的にまとまっている"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been compact",
+    "kana": "short",
+    "meaning": "小さいが効率的にまとまっている",
+    "category": "小さいが効率的にまとまっている"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be broad",
+    "kana": "wide",
+    "meaning": "幅広い範囲や幅を一般的に表す",
+    "category": "幅広い範囲や幅を一般的に表す"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being broad",
+    "kana": "wide",
+    "meaning": "幅広い範囲や幅を一般的に表す",
+    "category": "幅広い範囲や幅を一般的に表す"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been broad",
+    "kana": "wide",
+    "meaning": "幅広い範囲や幅を一般的に表す",
+    "category": "幅広い範囲や幅を一般的に表す"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be expansive",
+    "kana": "wide",
+    "meaning": "広々とした、広がりや拡大を強調する",
+    "category": "広々とした、広がりや拡大を強調する"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being expansive",
+    "kana": "wide",
+    "meaning": "広々とした、広がりや拡大を強調する",
+    "category": "広々とした、広がりや拡大を強調する"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been expansive",
+    "kana": "wide",
+    "meaning": "広々とした、広がりや拡大を強調する",
+    "category": "広々とした、広がりや拡大を強調する"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be slim",
+    "kana": "narrow",
+    "meaning": "スリムな、または可能性がわずかな",
+    "category": "スリムな、または可能性がわずかな"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being slim",
+    "kana": "narrow",
+    "meaning": "スリムな、または可能性がわずかな",
+    "category": "スリムな、または可能性がわずかな"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been slim",
+    "kana": "narrow",
+    "meaning": "スリムな、または可能性がわずかな",
+    "category": "スリムな、または可能性がわずかな"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be tight",
+    "kana": "narrow",
+    "meaning": "狭い、窮屈な",
+    "category": "狭い、窮屈な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being tight",
+    "kana": "narrow",
+    "meaning": "狭い、窮屈な",
+    "category": "狭い、窮屈な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been tight",
+    "kana": "narrow",
+    "meaning": "狭い、窮屈な",
+    "category": "狭い、窮屈な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be youthful",
+    "kana": "young",
+    "meaning": "若々しい、若さに溢れている",
+    "category": "若々しい、若さに溢れている"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being youthful",
+    "kana": "young",
+    "meaning": "若々しい、若さに溢れている",
+    "category": "若々しい、若さに溢れている"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been youthful",
+    "kana": "young",
+    "meaning": "若々しい、若さに溢れている",
+    "category": "若々しい、若さに溢れている"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be childish",
+    "kana": "young",
+    "meaning": "子供っぽい、子供向けの",
+    "category": "子供っぽい、子供向けの"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being childish",
+    "kana": "young",
+    "meaning": "子供っぽい、子供向けの",
+    "category": "子供っぽい、子供向けの"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been childish",
+    "kana": "young",
+    "meaning": "子供っぽい、子供向けの",
+    "category": "子供っぽい、子供向けの"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be weighty",
+    "kana": "heavy",
+    "meaning": "重い、重量のある",
+    "category": "重い、重量のある"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being weighty",
+    "kana": "heavy",
+    "meaning": "重い、重量のある",
+    "category": "重い、重量のある"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been weighty",
+    "kana": "heavy",
+    "meaning": "重い、重量のある",
+    "category": "重い、重量のある"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be hefty",
+    "kana": "heavy",
+    "meaning": "かなり重い、重量感のある（heave=持ち上げるが由来）",
+    "category": "かなり重い、重量感のある（heave=持ち上げるが由来）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being hefty",
+    "kana": "heavy",
+    "meaning": "かなり重い、重量感のある（heave=持ち上げるが由来）",
+    "category": "かなり重い、重量感のある（heave=持ち上げるが由来）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been hefty",
+    "kana": "heavy",
+    "meaning": "かなり重い、重量感のある（heave=持ち上げるが由来）",
+    "category": "かなり重い、重量感のある（heave=持ち上げるが由来）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be weightless",
+    "kana": "light",
+    "meaning": "重さを感じない、体が軽い",
+    "category": "重さを感じない、体が軽い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being weightless",
+    "kana": "light",
+    "meaning": "重さを感じない、体が軽い",
+    "category": "重さを感じない、体が軽い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been weightless",
+    "kana": "light",
+    "meaning": "重さを感じない、体が軽い",
+    "category": "重さを感じない、体が軽い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be airy",
+    "kana": "light",
+    "meaning": "ふわふわした、軽やかな、空気のような",
+    "category": "ふわふわした、軽やかな、空気のような"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being airy",
+    "kana": "light",
+    "meaning": "ふわふわした、軽やかな、空気のような",
+    "category": "ふわふわした、軽やかな、空気のような"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been airy",
+    "kana": "light",
+    "meaning": "ふわふわした、軽やかな、空気のような",
+    "category": "ふわふわした、軽やかな、空気のような"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be solid",
+    "kana": "hard",
+    "meaning": "（腹筋などが）硬い、しっかりした",
+    "category": "（腹筋などが）硬い、しっかりした"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being solid",
+    "kana": "hard",
+    "meaning": "（腹筋などが）硬い、しっかりした",
+    "category": "（腹筋などが）硬い、しっかりした"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been solid",
+    "kana": "hard",
+    "meaning": "（腹筋などが）硬い、しっかりした",
+    "category": "（腹筋などが）硬い、しっかりした"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be rock-hard",
+    "kana": "hard",
+    "meaning": "岩のように硬い、頑丈な",
+    "category": "岩のように硬い、頑丈な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being rock-hard",
+    "kana": "hard",
+    "meaning": "岩のように硬い、頑丈な",
+    "category": "岩のように硬い、頑丈な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been rock-hard",
+    "kana": "hard",
+    "meaning": "岩のように硬い、頑丈な",
+    "category": "岩のように硬い、頑丈な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be squishy",
+    "kana": "soft",
+    "meaning": "柔らかくて押すと潰れる感触",
+    "category": "柔らかくて押すと潰れる感触"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being squishy",
+    "kana": "soft",
+    "meaning": "柔らかくて押すと潰れる感触",
+    "category": "柔らかくて押すと潰れる感触"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been squishy",
+    "kana": "soft",
+    "meaning": "柔らかくて押すと潰れる感触",
+    "category": "柔らかくて押すと潰れる感触"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be plush",
+    "kana": "soft",
+    "meaning": "ふかふかした、豪華で柔らかい（布製品など）",
+    "category": "ふかふかした、豪華で柔らかい（布製品など）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being plush",
+    "kana": "soft",
+    "meaning": "ふかふかした、豪華で柔らかい（布製品など）",
+    "category": "ふかふかした、豪華で柔らかい（布製品など）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been plush",
+    "kana": "soft",
+    "meaning": "ふかふかした、豪華で柔らかい（布製品など）",
+    "category": "ふかふかした、豪華で柔らかい（布製品など）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be pointy",
+    "kana": "sharp",
+    "meaning": "先が尖った",
+    "category": "先が尖った"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being pointy",
+    "kana": "sharp",
+    "meaning": "先が尖った",
+    "category": "先が尖った"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been pointy",
+    "kana": "sharp",
+    "meaning": "先が尖った",
+    "category": "先が尖った"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be keen",
+    "kana": "sharp",
+    "meaning": "鋭い、頭脳明晰な",
+    "category": "鋭い、頭脳明晰な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being keen",
+    "kana": "sharp",
+    "meaning": "鋭い、頭脳明晰な",
+    "category": "鋭い、頭脳明晰な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been keen",
+    "kana": "sharp",
+    "meaning": "鋭い、頭脳明晰な",
+    "category": "鋭い、頭脳明晰な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be dull",
+    "kana": "blunt",
+    "meaning": "切れ味が悪い、鈍い",
+    "category": "切れ味が悪い、鈍い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being dull",
+    "kana": "blunt",
+    "meaning": "切れ味が悪い、鈍い",
+    "category": "切れ味が悪い、鈍い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been dull",
+    "kana": "blunt",
+    "meaning": "切れ味が悪い、鈍い",
+    "category": "切れ味が悪い、鈍い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be straightforward",
+    "kana": "blunt",
+    "meaning": "はっきり言う、単純で明快な",
+    "category": "はっきり言う、単純で明快な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being straightforward",
+    "kana": "blunt",
+    "meaning": "はっきり言う、単純で明快な",
+    "category": "はっきり言う、単純で明快な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been straightforward",
+    "kana": "blunt",
+    "meaning": "はっきり言う、単純で明快な",
+    "category": "はっきり言う、単純で明快な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be bright",
+    "kana": "colorful",
+    "meaning": "色が鮮やかな、明るい",
+    "category": "色が鮮やかな、明るい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being bright",
+    "kana": "colorful",
+    "meaning": "色が鮮やかな、明るい",
+    "category": "色が鮮やかな、明るい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been bright",
+    "kana": "colorful",
+    "meaning": "色が鮮やかな、明るい",
+    "category": "色が鮮やかな、明るい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be vivid",
+    "kana": "colorful",
+    "meaning": "鮮明な、強烈で鮮やかな",
+    "category": "鮮明な、強烈で鮮やかな"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being vivid",
+    "kana": "colorful",
+    "meaning": "鮮明な、強烈で鮮やかな",
+    "category": "鮮明な、強烈で鮮やかな"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been vivid",
+    "kana": "colorful",
+    "meaning": "鮮明な、強烈で鮮やかな",
+    "category": "鮮明な、強烈で鮮やかな"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be bland",
+    "kana": "colorless",
+    "meaning": "味気ない、面白みのない",
+    "category": "味気ない、面白みのない"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being bland",
+    "kana": "colorless",
+    "meaning": "味気ない、面白みのない",
+    "category": "味気ない、面白みのない"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been bland",
+    "kana": "colorless",
+    "meaning": "味気ない、面白みのない",
+    "category": "味気ない、面白みのない"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be monotonous",
+    "kana": "colorless",
+    "meaning": "単調な、変化がなく退屈な",
+    "category": "単調な、変化がなく退屈な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being monotonous",
+    "kana": "colorless",
+    "meaning": "単調な、変化がなく退屈な",
+    "category": "単調な、変化がなく退屈な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been monotonous",
+    "kana": "colorless",
+    "meaning": "単調な、変化がなく退屈な",
+    "category": "単調な、変化がなく退屈な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be sleek",
+    "kana": "smooth",
+    "meaning": "洗練された、光沢があり滑らかな",
+    "category": "洗練された、光沢があり滑らかな"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being sleek",
+    "kana": "smooth",
+    "meaning": "洗練された、光沢があり滑らかな",
+    "category": "洗練された、光沢があり滑らかな"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been sleek",
+    "kana": "smooth",
+    "meaning": "洗練された、光沢があり滑らかな",
+    "category": "洗練された、光沢があり滑らかな"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be silky",
+    "kana": "smooth",
+    "meaning": "シルクのように滑らかな",
+    "category": "シルクのように滑らかな"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being silky",
+    "kana": "smooth",
+    "meaning": "シルクのように滑らかな",
+    "category": "シルクのように滑らかな"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been silky",
+    "kana": "smooth",
+    "meaning": "シルクのように滑らかな",
+    "category": "シルクのように滑らかな"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be coarse",
+    "kana": "rough",
+    "meaning": "ざらざらした質感",
+    "category": "ざらざらした質感"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being coarse",
+    "kana": "rough",
+    "meaning": "ざらざらした質感",
+    "category": "ざらざらした質感"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been coarse",
+    "kana": "rough",
+    "meaning": "ざらざらした質感",
+    "category": "ざらざらした質感"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be gritty",
+    "kana": "rough",
+    "meaning": "ザラザラした（砂や小石のような質感）",
+    "category": "ザラザラした（砂や小石のような質感）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being gritty",
+    "kana": "rough",
+    "meaning": "ザラザラした（砂や小石のような質感）",
+    "category": "ザラザラした（砂や小石のような質感）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been gritty",
+    "kana": "rough",
+    "meaning": "ザラザラした（砂や小石のような質感）",
+    "category": "ザラザラした（砂や小石のような質感）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be soaked",
+    "kana": "wet",
+    "meaning": "びしょ濡れの",
+    "category": "びしょ濡れの"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being soaked",
+    "kana": "wet",
+    "meaning": "びしょ濡れの",
+    "category": "びしょ濡れの"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been soaked",
+    "kana": "wet",
+    "meaning": "びしょ濡れの",
+    "category": "びしょ濡れの"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be damp",
+    "kana": "wet",
+    "meaning": "湿った、湿気を含んだ",
+    "category": "湿った、湿気を含んだ"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being damp",
+    "kana": "wet",
+    "meaning": "湿った、湿気を含んだ",
+    "category": "湿った、湿気を含んだ"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been damp",
+    "kana": "wet",
+    "meaning": "湿った、湿気を含んだ",
+    "category": "湿った、湿気を含んだ"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be short-fused",
+    "kana": "hot-tempered",
+    "meaning": "すぐにカッとなる（導火線が短い）",
+    "category": "すぐにカッとなる（導火線が短い）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being short-fused",
+    "kana": "hot-tempered",
+    "meaning": "すぐにカッとなる（導火線が短い）",
+    "category": "すぐにカッとなる（導火線が短い）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been short-fused",
+    "kana": "hot-tempered",
+    "meaning": "すぐにカッとなる（導火線が短い）",
+    "category": "すぐにカッとなる（導火線が短い）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be explosive",
+    "kana": "hot-tempered",
+    "meaning": "爆発しやすい、感情的になりやすい",
+    "category": "爆発しやすい、感情的になりやすい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being explosive",
+    "kana": "hot-tempered",
+    "meaning": "爆発しやすい、感情的になりやすい",
+    "category": "爆発しやすい、感情的になりやすい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been explosive",
+    "kana": "hot-tempered",
+    "meaning": "爆発しやすい、感情的になりやすい",
+    "category": "爆発しやすい、感情的になりやすい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be chill",
+    "kana": "calm",
+    "meaning": "落ち着いた、リラックスした",
+    "category": "落ち着いた、リラックスした"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being chill",
+    "kana": "calm",
+    "meaning": "落ち着いた、リラックスした",
+    "category": "落ち着いた、リラックスした"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been chill",
+    "kana": "calm",
+    "meaning": "落ち着いた、リラックスした",
+    "category": "落ち着いた、リラックスした"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be mellow",
+    "kana": "calm",
+    "meaning": "温厚な、穏やかな、成熟した",
+    "category": "温厚な、穏やかな、成熟した"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being mellow",
+    "kana": "calm",
+    "meaning": "温厚な、穏やかな、成熟した",
+    "category": "温厚な、穏やかな、成熟した"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been mellow",
+    "kana": "calm",
+    "meaning": "温厚な、穏やかな、成熟した",
+    "category": "温厚な、穏やかな、成熟した"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be switched-on",
+    "kana": "intelligent",
+    "meaning": "（特定の分野に）詳しい、賢い",
+    "category": "（特定の分野に）詳しい、賢い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being switched-on",
+    "kana": "intelligent",
+    "meaning": "（特定の分野に）詳しい、賢い",
+    "category": "（特定の分野に）詳しい、賢い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been switched-on",
+    "kana": "intelligent",
+    "meaning": "（特定の分野に）詳しい、賢い",
+    "category": "（特定の分野に）詳しい、賢い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be brainy",
+    "kana": "intelligent",
+    "meaning": "知的な、知識が豊富な",
+    "category": "知的な、知識が豊富な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being brainy",
+    "kana": "intelligent",
+    "meaning": "知的な、知識が豊富な",
+    "category": "知的な、知識が豊富な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been brainy",
+    "kana": "intelligent",
+    "meaning": "知的な、知識が豊富な",
+    "category": "知的な、知識が豊富な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be smart",
+    "kana": "intelligent",
+    "meaning": "賢い",
+    "category": "賢い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being smart",
+    "kana": "intelligent",
+    "meaning": "賢い",
+    "category": "賢い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been smart",
+    "kana": "intelligent",
+    "meaning": "賢い",
+    "category": "賢い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be sharp",
+    "kana": "intelligent",
+    "meaning": "頭が切れる、鋭い",
+    "category": "頭が切れる、鋭い"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being sharp",
+    "kana": "intelligent",
+    "meaning": "頭が切れる、鋭い",
+    "category": "頭が切れる、鋭い"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been sharp",
+    "kana": "intelligent",
+    "meaning": "頭が切れる、鋭い",
+    "category": "頭が切れる、鋭い"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be goofy",
+    "kana": "silly",
+    "meaning": "ふざけた、ばかげた（goof=ばかが由来）",
+    "category": "ふざけた、ばかげた（goof=ばかが由来）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being goofy",
+    "kana": "silly",
+    "meaning": "ふざけた、ばかげた（goof=ばかが由来）",
+    "category": "ふざけた、ばかげた（goof=ばかが由来）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been goofy",
+    "kana": "silly",
+    "meaning": "ふざけた、ばかげた（goof=ばかが由来）",
+    "category": "ふざけた、ばかげた（goof=ばかが由来）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be wacky",
+    "kana": "silly",
+    "meaning": "変わった、おかしな",
+    "category": "変わった、おかしな"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being wacky",
+    "kana": "silly",
+    "meaning": "変わった、おかしな",
+    "category": "変わった、おかしな"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been wacky",
+    "kana": "silly",
+    "meaning": "変わった、おかしな",
+    "category": "変わった、おかしな"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be stern",
+    "kana": "serious",
+    "meaning": "厳格な、厳しい（態度など）",
+    "category": "厳格な、厳しい（態度など）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being stern",
+    "kana": "serious",
+    "meaning": "厳格な、厳しい（態度など）",
+    "category": "厳格な、厳しい（態度など）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been stern",
+    "kana": "serious",
+    "meaning": "厳格な、厳しい（態度など）",
+    "category": "厳格な、厳しい（態度など）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be grave",
+    "kana": "serious",
+    "meaning": "深刻な、重大な（影響など）",
+    "category": "深刻な、重大な（影響など）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being grave",
+    "kana": "serious",
+    "meaning": "深刻な、重大な（影響など）",
+    "category": "深刻な、重大な（影響など）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been grave",
+    "kana": "serious",
+    "meaning": "深刻な、重大な（影響など）",
+    "category": "深刻な、重大な（影響など）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be sluggish",
+    "kana": "lazy",
+    "meaning": "だるい、動きが遅い（ナメクジ=slugが由来）",
+    "category": "だるい、動きが遅い（ナメクジ=slugが由来）"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being sluggish",
+    "kana": "lazy",
+    "meaning": "だるい、動きが遅い（ナメクジ=slugが由来）",
+    "category": "だるい、動きが遅い（ナメクジ=slugが由来）"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been sluggish",
+    "kana": "lazy",
+    "meaning": "だるい、動きが遅い（ナメクジ=slugが由来）",
+    "category": "だるい、動きが遅い（ナメクジ=slugが由来）"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be lethargic",
+    "kana": "lazy",
+    "meaning": "だるい、無気力な",
+    "category": "だるい、無気力な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being lethargic",
+    "kana": "lazy",
+    "meaning": "だるい、無気力な",
+    "category": "だるい、無気力な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been lethargic",
+    "kana": "lazy",
+    "meaning": "だるい、無気力な",
+    "category": "だるい、無気力な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be vigorous",
+    "kana": "energetic",
+    "meaning": "力強い、活発な",
+    "category": "力強い、活発な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being vigorous",
+    "kana": "energetic",
+    "meaning": "力強い、活発な",
+    "category": "力強い、活発な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been vigorous",
+    "kana": "energetic",
+    "meaning": "力強い、活発な",
+    "category": "力強い、活発な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be lively",
+    "kana": "energetic",
+    "meaning": "活気がある、エネルギッシュな",
+    "category": "活気がある、エネルギッシュな"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being lively",
+    "kana": "energetic",
+    "meaning": "活気がある、エネルギッシュな",
+    "category": "活気がある、エネルギッシュな"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been lively",
+    "kana": "energetic",
+    "meaning": "活気がある、エネルギッシュな",
+    "category": "活気がある、エネルギッシュな"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be kind",
+    "kana": "friendly",
+    "meaning": "親切な、心が優しい",
+    "category": "親切な、心が優しい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being kind",
+    "kana": "friendly",
+    "meaning": "親切な、心が優しい",
+    "category": "親切な、心が優しい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been kind",
+    "kana": "friendly",
+    "meaning": "親切な、心が優しい",
+    "category": "親切な、心が優しい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be warm",
+    "kana": "friendly",
+    "meaning": "温かい、心温かい",
+    "category": "温かい、心温かい"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being warm",
+    "kana": "friendly",
+    "meaning": "温かい、心温かい",
+    "category": "温かい、心温かい"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been warm",
+    "kana": "friendly",
+    "meaning": "温かい、心温かい",
+    "category": "温かい、心温かい"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be cold",
+    "kana": "unfriendly",
+    "meaning": "冷たい、無愛想な",
+    "category": "冷たい、無愛想な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being cold",
+    "kana": "unfriendly",
+    "meaning": "冷たい、無愛想な",
+    "category": "冷たい、無愛想な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been cold",
+    "kana": "unfriendly",
+    "meaning": "冷たい、無愛想な",
+    "category": "冷たい、無愛想な"
+  },
+  {
+    "type": "Type 1",
+    "no": "形容詞",
+    "eng": "be hostile",
+    "kana": "unfriendly",
+    "meaning": "攻撃的な、敵対的な",
+    "category": "攻撃的な、敵対的な"
+  },
+  {
+    "type": "Type 2",
+    "no": "形容詞",
+    "eng": "being hostile",
+    "kana": "unfriendly",
+    "meaning": "攻撃的な、敵対的な",
+    "category": "攻撃的な、敵対的な"
+  },
+  {
+    "type": "Type 3",
+    "no": "形容詞",
+    "eng": "been hostile",
+    "kana": "unfriendly",
+    "meaning": "攻撃的な、敵対的な",
+    "category": "攻撃的な、敵対的な"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "A drop in the ocean",
+    "kana": "/ə drɒp ɪn ðə ˈoʊʃən/",
+    "meaning": "雀の涙、ごくわずかな量",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Add fuel to the fire",
+    "kana": "/æd ˈfjuːəl tu ðə ˈfaɪər/",
+    "meaning": "火に油を注ぐ",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "An eye for an eye",
+    "kana": "/æn aɪ fər æn aɪ/",
+    "meaning": "目には目を（報復）",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Balancing act",
+    "kana": "/ˈbælənsɪŋ ækt/",
+    "meaning": "綱渡り、難しいバランス調整",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Bang one's head against the wall",
+    "kana": "/bæŋ wʌnz hɛd əˈɡɛnst ðə wɔːl/",
+    "meaning": "無駄な努力を続ける",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 3",
+    "no": "",
+    "eng": "Been there, done that",
+    "kana": "/bɪn ðɛər dʌn ðæt/",
+    "meaning": "経験済みである、よくあることだ",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Beggars can't be choosers",
+    "kana": "/ˈbɛɡərz kɑːnt bi ˈtʃuːzərz/",
+    "meaning": "背に腹は代えられない、選べる立場にない",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Blow sth out of proportion",
+    "kana": "/bloʊ ˈsʌmθɪŋ aʊt əv prəˈpɔːrʃən/",
+    "meaning": "物事を大げさに騒ぎ立てる",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Bring one's A-game",
+    "kana": "/brɪŋ wʌnz eɪ ɡeɪm/",
+    "meaning": "最高の実力を発揮する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Bring out the best in sb",
+    "kana": "/brɪŋ aʊt ðə bɛst ɪn ˈsʌmbədi/",
+    "meaning": "〜の良さを引き出す",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Care factor zero",
+    "kana": "/kɛər ˈfæktər ˈzɪəroʊ/",
+    "meaning": "まったく関心がない",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Carrot and stick",
+    "kana": "/ˈkærət ænd stɪk/",
+    "meaning": "飴と鞭",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Cash cow",
+    "kana": "/kæʃ kaʊ/",
+    "meaning": "稼ぎ頭、収益源",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Catch more flies with honey",
+    "kana": "/kætʃ mɔːr flaɪz wɪð ˈhʌni/",
+    "meaning": "北風と太陽（優しくした方が得）",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Cherry-pick sth",
+    "kana": "/ˈtʃɛri pɪk ˈsʌmθɪŋ/",
+    "meaning": "つまみ食いする、都合良く選ぶ",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Come with the territory",
+    "kana": "/kʌm wɪð ðə ˈtɛrɪtɔːri/",
+    "meaning": "つきものである、避けられない",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Cry over spilt milk",
+    "kana": "/kraɪ ˈoʊvər spɪlt mɪlk/",
+    "meaning": "覆水盆に返らず",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Curiosity killed the cat",
+    "kana": "/ˌkjʊəriˈɒsəti kɪld ðə kæt/",
+    "meaning": "好奇心は身を滅ぼす",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Different kettle of fish",
+    "kana": "/ˈdɪfrənt ˈkɛtl əv fɪʃ/",
+    "meaning": "全くの別物",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Dish it out",
+    "kana": "/dɪʃ ɪt aʊt/",
+    "meaning": "（人を）酷評する、厳しく当たる",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Do a 180",
+    "kana": "/duː ə wʌn ˈeɪti/",
+    "meaning": "意見や態度をガラリと変える",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Do a double take",
+    "kana": "/duː ə ˈdʌbl teɪk/",
+    "meaning": "（驚いて）二度見する",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Don't hold your breath",
+    "kana": "/doʊnt hoʊld jɔːr brɛθ/",
+    "meaning": "期待せずに待て",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Downplay sth",
+    "kana": "/ˌdaʊnˈpleɪ ˈsʌmθɪŋ/",
+    "meaning": "〜を軽視する、控えめに言う",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Feeling blah",
+    "kana": "/ˈfiːlɪŋ blɑː/",
+    "meaning": "気分が乗らない、冴えない",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get a life",
+    "kana": "/ɡɛt ə laɪf/",
+    "meaning": "（つまらない干渉はやめて）自分の人生を生きろ",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get all one's ducks in a row",
+    "kana": "/ɡɛt ɔːl wʌnz dʌks ɪn ə roʊ/",
+    "meaning": "万全の準備を整える",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get away with murder",
+    "kana": "/ɡɛt əˈweɪ wɪð ˈmɜːrdər/",
+    "meaning": "好き勝手しても許される、罰を逃れる",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get one's foot in the door",
+    "kana": "/ɡɛt wʌnz fʊt ɪn ðə dɔːr/",
+    "meaning": "足がかりをつかむ",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get out of sb's hair",
+    "kana": "/ɡɛt aʊt əv ˈsʌmbədiz hɛər/",
+    "meaning": "邪魔をしない、自由にさせる",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Give sb a piece of one's mind",
+    "kana": "/ɡɪv ˈsʌmbədi ə piːs əv wʌnz maɪnd/",
+    "meaning": "（怒って）小言を言う、思い知らせる",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go gangbusters",
+    "kana": "/ɡoʊ ˈɡæŋˌbʌstərz/",
+    "meaning": "大成功する、勢いよく進む",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go hand in hand",
+    "kana": "/ɡoʊ hænd ɪn hænd/",
+    "meaning": "密接に関連している",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go the extra mile",
+    "kana": "/ɡoʊ ðɪ ˈɛkstrə maɪl/",
+    "meaning": "一層の努力をする",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go through a rough patch",
+    "kana": "/ɡoʊ θruː ə rʌf pætʃ/",
+    "meaning": "苦境に立つ、不調の時期を過ごす",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Have a few screws loose",
+    "kana": "/hæv ə fjuː skruːz luːs/",
+    "meaning": "頭のネジが緩んでいる、少し変である",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Have a mind of its own",
+    "kana": "/hæv ə maɪnd əv ɪts oʊn/",
+    "meaning": "（機械などが）勝手に動く",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Have a whale of a time",
+    "kana": "/hæv ə weɪl əv ə taɪm/",
+    "meaning": "素晴らしい時間を過ごす",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Have one's cake and eat it too",
+    "kana": "/hæv wʌnz keɪk ænd iːt ɪt tuː/",
+    "meaning": "二兎を追う、おいしいとこ取りをする",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Have time on one's hands",
+    "kana": "/hæv taɪm ɒn wʌnz hændz/",
+    "meaning": "時間を持て余している",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Hidden gem",
+    "kana": "/ˈhɪdn dʒɛm/",
+    "meaning": "知る人ぞ知る名所、穴場",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Hit one's stride",
+    "kana": "/hɪt wʌnz straɪd/",
+    "meaning": "本領を発揮し始める、軌道に乗る",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 5",
+    "no": "",
+    "eng": "Hog the spotlight",
+    "kana": "/hɒɡ ðə ˈspɒtlaɪt/",
+    "meaning": "注目を独占する",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Invincible",
+    "kana": "/ɪnˈvɪnsəbl/",
+    "meaning": "無敵の、負けることのない",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "It's the thought that counts",
+    "kana": "/ɪts ðə θɔːt ðæt kaʊnts/",
+    "meaning": "気持ちが大事",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Keep pace with sth/sb",
+    "kana": "/kiːp peɪs wɪð ˈsʌmθɪŋ/",
+    "meaning": "〜に遅れずについていく",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Kick the bucket",
+    "kana": "/kɪk ðə ˈbʌkɪt/",
+    "meaning": "死ぬ、くたばる",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Know sb/sth like the back of one's hand",
+    "kana": "/noʊ laɪk ðə bæk əv wʌnz hænd/",
+    "meaning": "〜を熟知している",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Know one's own mind",
+    "kana": "/noʊ wʌnz oʊn maɪnd/",
+    "meaning": "自分の考えがはっきりしている",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Late bloomer",
+    "kana": "/leɪt ˈbluːmər/",
+    "meaning": "大器晩成型の人",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Laughingstock",
+    "kana": "/ˈlæfɪŋˌstɒk/",
+    "meaning": "笑いもの",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Like father, like son",
+    "kana": "/laɪk ˈfɑːðər laɪk sʌn/",
+    "meaning": "この親にしてこの子あり",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Make a distinction between A and B",
+    "kana": "/meɪk ə dɪˈstɪŋkʃən bɪˈtwiːn/",
+    "meaning": "〜の区別をつける",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Micro-manage sth/sb",
+    "kana": "/ˈmaɪkroʊˌmænɪdʒ ˈsʌmθɪŋ/",
+    "meaning": "細かく管理・干渉する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Mishmash",
+    "kana": "/ˈmɪʃmæʃ/",
+    "meaning": "寄せ集め、ごちゃまぜ",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Mixed messages",
+    "kana": "/mɪkst ˈmɛsɪdʒɪz/",
+    "meaning": "矛盾した合図、はっきりしない態度",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "On the ropes",
+    "kana": "/ɒn ðə roʊps/",
+    "meaning": "窮地に追い込まれて、苦戦して",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pass the time",
+    "kana": "/pæs ðə taɪm/",
+    "meaning": "時間をつぶす",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pie in the sky",
+    "kana": "/paɪ ɪn ðə skaɪ/",
+    "meaning": "絵に描いた餅、非現実的な計画",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Plow ahead with sth",
+    "kana": "/plaʊ əˈhɛd wɪð ˈsʌmθɪŋ/",
+    "meaning": "（反対などを押し切って）強行する",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Poster boy/girl",
+    "kana": "/ˈpoʊstər bɔɪ/",
+    "meaning": "象徴、代表格",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put one's foot in one's mouth",
+    "kana": "/pʊt wʌnz fʊt ɪn wʌnz maʊθ/",
+    "meaning": "失言する、墓穴を掘る",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put one's own spin on sth",
+    "kana": "/pʊt wʌnz oʊn spɪn ɒn ˈsʌmθɪŋ/",
+    "meaning": "自分なりの解釈を加える",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put sb on the map",
+    "kana": "/pʊt ˈsʌmbədi ɒn ðə mæp/",
+    "meaning": "〜を一躍有名にする",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put sb's mind at ease",
+    "kana": "/pʊt ˈsʌmbədiz maɪnd æt iːz/",
+    "meaning": "〜を安心させる",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put sth on the back burner",
+    "kana": "/pʊt ˈsʌmθɪŋ ɒn ðə bæk ˈbɜːrnər/",
+    "meaning": "〜を後回しにする",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Ray of sunshine",
+    "kana": "/reɪ əv ˈsʌnʃaɪn/",
+    "meaning": "周りを明るくする人",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Reach boiling point",
+    "kana": "/riːtʃ ˈbɔɪlɪŋ pɔɪnt/",
+    "meaning": "限界点（沸点）に達する",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Rein sth/sb in",
+    "kana": "/reɪn ˈsʌmθɪŋ ɪn/",
+    "meaning": "〜を抑制する、制御する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 3",
+    "no": "",
+    "eng": "Rip off the band-aid",
+    "kana": "/rɪp ɔːf ðə ˈbændeɪd/",
+    "meaning": "（痛みを伴うことを）一気に済ませる",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Ripped",
+    "kana": "/rɪpt/",
+    "meaning": "（筋肉が）バキバキに割れた",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Rule sth out",
+    "kana": "/ruːl ˈsʌmθɪŋ aʊt/",
+    "meaning": "〜を除外する、可能性を消す",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Running on empty",
+    "kana": "/ˈrʌnɪŋ ɒn ˈɛmpti/",
+    "meaning": "限界ギリギリで頑張っている",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Running on fumes",
+    "kana": "/ˈrʌnɪŋ ɒn fjuːmz/",
+    "meaning": "疲労困憊で動いている",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Sacred cow",
+    "kana": "/ˈseɪkrɪd kaʊ/",
+    "meaning": "聖域（批判が許されないもの）",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Save sb's bacon",
+    "kana": "/seɪv ˈsʌmbədiz ˈbeɪkən/",
+    "meaning": "〜の窮地を救う",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Shock to the system",
+    "kana": "/ʃɒk tu ðə ˈsɪstəm/",
+    "meaning": "精神的ショック、大きな環境の変化",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Slap in the face",
+    "kana": "/slæp ɪn ðə feɪs/",
+    "meaning": "侮辱、ひどい仕打ち",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Spell sth out",
+    "kana": "/spɛl ˈsʌmθɪŋ aʊt/",
+    "meaning": "〜を詳しく説明する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Straight off the bat",
+    "kana": "/streɪt ɔːf ðə bæt/",
+    "meaning": "即座に、開口一番",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Sweep sth under the carpet",
+    "kana": "/swiːp ˈsʌmθɪŋ ˈʌndər ðə ˈkɑːrpɪt/",
+    "meaning": "問題を隠蔽する、うやむやにする",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take a beating",
+    "kana": "/teɪk ə ˈbiːtɪŋ/",
+    "meaning": "完敗する、酷評される",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take a leap of faith",
+    "kana": "/teɪk ə liːp əv feɪθ/",
+    "meaning": "いちかばちかやってみる",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Take the bull by the horns",
+    "kana": "/teɪk ðə bʊl baɪ ðə hɔːrnz/",
+    "meaning": "困難に正面から立ち向かう",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "The apple of sb's eye",
+    "kana": "/ðə ˈæpl əv ˈsʌmbədiz aɪ/",
+    "meaning": "目に入れても痛くないほど可愛い",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "The lesser of two evils",
+    "kana": "ðə ˈlɛsər əv tuː ˈiːvəlz/",
+    "meaning": "（悪い選択肢の中での）よりマシな方",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "The wheels come off",
+    "kana": "/ðə wiːlz kʌm ɔːf/",
+    "meaning": "計画が台無しになる、失敗する",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "There are plenty of fish in the sea",
+    "kana": "/ðɛər ɑːr ˈplɛnti əv fɪʃ ɪn ðə siː/",
+    "meaning": "代わりはいくらでもいる",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "There's a method to sb's madness",
+    "kana": "/ðɛərz ə ˈmɛθəd tu ˈsʌmbədiz ˈmædnəs/",
+    "meaning": "狂気の中にも理屈がある",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Trump card",
+    "kana": "/trʌmp kɑːrd/",
+    "meaning": "切り札",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Twist sb's arm",
+    "kana": "/twɪst ˈsʌmbədiz ɑːrm/",
+    "meaning": "〜に無理強いする、説得する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Two heads are better than one",
+    "kana": "/tuː hɛdz ɑːr ˈbɛtər ðæn wʌn/",
+    "meaning": "三人寄れば文殊の知恵",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Underline the importance of sth",
+    "kana": "/ˈʌndərlaɪn ðɪ ɪmˈpɔːrtəns əv/",
+    "meaning": "〜の重要性を強調する",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Walk sb through sth",
+    "kana": "/wɔːk ˈsʌmbədi θruː ˈsʌmθɪŋ/",
+    "meaning": "〜を丁寧に順を追って説明する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Wash one's hands of sth/sb",
+    "kana": "/wɒʃ wʌnz hændz əv ˈsʌmθɪŋ/",
+    "meaning": "〜から手を引く、縁を切る",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Wet blanket",
+    "kana": "/wɛt ˈblæŋkɪt/",
+    "meaning": "座を白けさせる人",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 5",
+    "no": "",
+    "eng": "What's done is done",
+    "kana": "/wɒts dʌn ɪz dʌn/",
+    "meaning": "済んだことは仕方がない",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "When pigs fly",
+    "kana": "/wɛn pɪɡz flaɪ/",
+    "meaning": "決して起こり得ない",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Wiggle room",
+    "kana": "/ˈwɪɡl ruːm/",
+    "meaning": "余裕、柔軟に対応できる余地",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "You can't teach an old dog new tricks",
+    "kana": "/juː kɑːnt tiːtʃ æn oʊld dɒɡ njuː trɪks/",
+    "meaning": "古い習慣は変えにくい",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "You win some, you lose some",
+    "kana": "/juː wɪn sʌm juː luːz sʌm/",
+    "meaning": "勝つこともあれば負けることもある",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Cancel somebody",
+    "kana": "/ˈkænsəl ˈsʌmbədi/",
+    "meaning": "誰かを「キャンセル」する（社会的に排除する）",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Alpha",
+    "kana": "/ˈælfə/",
+    "meaning": "支配的な人",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Climb the corporate ladder",
+    "kana": "/klaɪm ðə ˈkɔːrpərət ˈlædər/",
+    "meaning": "出世の階段を上る",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Best practice",
+    "kana": "/best ˈpræktɪs/",
+    "meaning": "最善の方法、慣行",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Not on somebody's watch",
+    "kana": "/nɑːt ɑːn ˈsʌmbədiz wɑːtʃ/",
+    "meaning": "私（誰か）が監視している間は～させない",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Live in a bubble",
+    "kana": "/lɪv ɪn ə ˈbʌbəl/",
+    "meaning": "狭い世界で生きる",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Big shoes to fill",
+    "kana": "/bɪɡ ʃuːz tə fɪl/",
+    "meaning": "前任者が偉大で、その跡を継ぐのが大変である",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Hit the reset button",
+    "kana": "/hɪt ðə ˌriːˈset ˈbʌtən/",
+    "meaning": "最初からやり直す",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "There's nothing like...",
+    "kana": "/ðɛrz ˈnʌθɪŋ laɪk/",
+    "meaning": "～に勝るものはない",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "To put it mildly",
+    "kana": "/tə pʊt ɪt ˈmaɪldli/",
+    "meaning": "控えめに言っても",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 3",
+    "no": "",
+    "eng": "Put somebody on a pedestal",
+    "kana": "/pʊt ˈsʌmbədi ɑːn ə ˈpedəstəl/",
+    "meaning": "誰かを崇める、理想化する",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Not cut out to do",
+    "kana": "/nɑːt kʌt aʊt tə duː/",
+    "meaning": "～に向いていない",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Lone wolf",
+    "kana": "/loʊn wʊlf/",
+    "meaning": "一匹狼",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "There's no such thing as a free lunch",
+    "kana": "/ðɛrz noʊ sʌtʃ θɪŋ æz ə friː lʌntʃ/",
+    "meaning": "ただより高いものはない",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "No pain, no gain",
+    "kana": "/noʊ peɪn noʊ ɡeɪn/",
+    "meaning": "痛みなくして得るものなし",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "A small price to pay",
+    "kana": "ə smɔːl praɪs tə peɪ/",
+    "meaning": "安い代償",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Cement something",
+    "kana": "/səˈment ˈsʌmθɪŋ/",
+    "meaning": "～を固める、確実にする",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Per se",
+    "kana": "/ˌpɜːr ˈseɪ/",
+    "meaning": "それ自体、本来",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Saga",
+    "kana": "/ˈsɑːɡə/",
+    "meaning": "長くて波乱万丈な話",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Come out of one's shell",
+    "kana": "/kʌm aʊt əv wʌnz ʃel/",
+    "meaning": "殻を破る、社交的になる",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Split hairs",
+    "kana": "/splɪt hɛrz/",
+    "meaning": "重箱の隅をつつく",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Something aside",
+    "kana": "/ˈsʌmθɪŋ əˈsaɪd/",
+    "meaning": "～はさておき",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Coin-flip",
+    "kana": "/ˈkɔɪnflɪp/",
+    "meaning": "五分五分の状況",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Alive and kicking",
+    "kana": "/əˈlaɪv ənd ˈkɪkɪŋ/",
+    "meaning": "ピンピンしている、健在である",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "And what-not",
+    "kana": "/ənd ˈwʌtnɑːt/",
+    "meaning": "～やら何やら",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "As the saying goes",
+    "kana": "/æz ðə ˈseɪɪŋ ɡoʊz/",
+    "meaning": "諺にもある通り",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Even a broken clock is right twice a day",
+    "kana": "/ˈiːvən ə ˈbroʊkən klɑːk ɪz raɪt twaɪs ə deɪ/",
+    "meaning": "たまには当たることもある",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Would be late for one's own funeral",
+    "kana": "/wʊd bi leɪt fər wʌnz oʊn ˈfjuːnərəl/",
+    "meaning": "非常に時間にルーズである",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Something else",
+    "kana": "/ˈsʌmθɪŋ els/",
+    "meaning": "格別の、並外れた",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Bring home the bacon",
+    "kana": "/brɪŋ hoʊm ðə ˈbeɪkən/",
+    "meaning": "稼いでくる、家庭を支える",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pull up a chair",
+    "kana": "/pʊl ʌp ə tʃɛr/",
+    "meaning": "椅子を持ってきて座る",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Either-or",
+    "kana": "/ˈiːðər ɔːr/",
+    "meaning": "二者択一",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take something by storm",
+    "kana": "/teɪk ˈsʌmθɪŋ baɪ stɔːrm/",
+    "meaning": "～を席巻する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Let the cat out of the bag",
+    "kana": "/let ðə kæt aʊt əv ðə bæɡ/",
+    "meaning": "秘密を漏らす",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Break a habit (of sth)",
+    "kana": "/breɪk ə ˈhæbɪt/",
+    "meaning": "習慣を断つ",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Hit the streets",
+    "kana": "/hɪt ðə striːts/",
+    "meaning": "街に出る、発売される",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Frame something",
+    "kana": "/freɪm ˈsʌmθɪŋ/",
+    "meaning": "～を特定の視点で表現する",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Light-bulb moment",
+    "kana": "/ˈlaɪtbʌlb ˈmoʊmənt/",
+    "meaning": "閃きの瞬間",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Shades of gray",
+    "kana": "/ʃeɪdz əv ɡreɪ/",
+    "meaning": "中間領域（白黒つけられない）",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Float an idea by sb",
+    "kana": "/floʊt æn aɪˈdiːə baɪ/",
+    "meaning": "誰かにアイデアを相談する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Double-edged sword",
+    "kana": "/ˌdʌbəl ˌedʒd ˈsɔːrd/",
+    "meaning": "諸刃の剣",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "The deck is stacked against sb",
+    "kana": "ðə dek ɪz stækt əˈɡenst/",
+    "meaning": "状況が圧倒的に不利である",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Read between the lines",
+    "kana": "/riːd bɪˈtwiːn ðə laɪnz/",
+    "meaning": "行間を読む、真意を汲み取る",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put sb out of sb's misery",
+    "kana": "/pʊt ˈsʌmbədi aʊt əv ˈsʌmbədiz ˈmɪzəri/",
+    "meaning": "苦しみから解放する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Like a deer in the headlights",
+    "kana": "/laɪk ə dɪr ɪn ðə ˈhedlaɪts/",
+    "meaning": "驚きや恐怖で立ちすくんで",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Building block",
+    "kana": "/ˈbɪldɪŋ blɑːk/",
+    "meaning": "構成要素、基礎",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Make an example of sb",
+    "kana": "/meɪk æn ɪɡˈzæmpəl əv/",
+    "meaning": "見せしめにする",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "The more the merrier",
+    "kana": "ðə mɔːr ðə ˈmɛriər/",
+    "meaning": "多ければ多いほど楽しい",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Witch hunt",
+    "kana": "/ˈwɪtʃ hʌnt/",
+    "meaning": "魔女狩り",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Damaged goods",
+    "kana": "/ˈdæmɪdʒd ɡʊdz/",
+    "meaning": "欠陥品、心に傷を負った人",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get a rise out of sb",
+    "kana": "/ɡet ə raɪz aʊt əv/",
+    "meaning": "誰かを（意図的に）怒らせる",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "In the nick of time",
+    "kana": "/ɪn ðə nɪk əv taɪm/",
+    "meaning": "間一髪で",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "In over one's head",
+    "kana": "/ɪn ˈoʊvər wʌnz hed/",
+    "meaning": "自分の能力を超えている",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "When it rains, it pours",
+    "kana": "/wen ɪt reɪnz ɪt pɔːrz/",
+    "meaning": "泣き面に蜂、悪いことは続く",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Plot twist",
+    "kana": "/ˈplɑːt twɪst/",
+    "meaning": "どんでん返し",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Last but not least",
+    "kana": "/læst bət nɑːt liːst/",
+    "meaning": "最後になりますが重要なことに",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Dog-eat-dog world",
+    "kana": "/ˌdɔːɡ iːt ˈdɔːɡ wɜːrld/",
+    "meaning": "弱肉強食の世界",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Put a sock in it",
+    "kana": "/pʊt ə sɑːk ɪn ɪt/",
+    "meaning": "黙れ（静かにしろ）",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Money talks",
+    "kana": "/ˈmʌni tɔːks/",
+    "meaning": "金が物を言う",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "The wheels are already in motion",
+    "kana": "ðə wiːlz ɑːr ɔːlˈredi ɪn ˈmoʊʃən/",
+    "meaning": "事態はすでに動き出している",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take the high road",
+    "kana": "/teɪk ðə haɪ roʊd/",
+    "meaning": "正々堂々と振る舞う",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Sell like hotcakes",
+    "kana": "/sel laɪk ˈhɑːtkeɪks/",
+    "meaning": "飛ぶように売れる",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Speak volumes",
+    "kana": "/spiːk ˈvɑːljuːmz/",
+    "meaning": "多くを語る、雄弁である",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Can't emphasize enough",
+    "kana": "/kænt ˈemfəsaɪz ɪˈnʌf/",
+    "meaning": "いくら強調してもし足りない",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Hairy",
+    "kana": "/ˈheri/",
+    "meaning": "危うい、怖い",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "In a stalemate",
+    "kana": "/ɪn ə ˈsteɪlmeɪt/",
+    "meaning": "膠着状態で、行き詰まって",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Step on it",
+    "kana": "/step ɑːn ɪt/",
+    "meaning": "急ぐ",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Ulterior motive",
+    "kana": "/ʌlˈtɪriər ˈmoʊtɪv/",
+    "meaning": "下心",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Bust",
+    "kana": "/bʌst/",
+    "meaning": "失敗、ハズレ",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "In sb's mind's eye",
+    "kana": "/ɪn ˈsʌmbədiz maɪndz aɪ/",
+    "meaning": "想像の中で",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Patch sth up",
+    "kana": "/pætʃ ˈsʌmθɪŋ ʌp/",
+    "meaning": "応急処置をする、仲直りする",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "In this day and age",
+    "kana": "/ɪn ðɪs deɪ ənd eɪdʒ/",
+    "meaning": "この現代において",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Head for the exit door",
+    "kana": "/hed fər ðə ˈeksɪt dɔːr/",
+    "meaning": "退場に向かう（辞めようとする）",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Zero-sum game",
+    "kana": "/ˌzɪroʊ ˈsʌm ɡeɪm/",
+    "meaning": "ゼロサムゲーム",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Old soul",
+    "kana": "/oʊld soʊl/",
+    "meaning": "老成した人",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Highlight reel",
+    "kana": "/ˈhaɪlaɪt riːl/",
+    "meaning": "良いところだけを並べたもの",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Cause a stir",
+    "kana": "/kɔːz ə stɜːr/",
+    "meaning": "騒ぎを起こす",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Come out of the woodwork",
+    "kana": "/kʌm aʊt əv ðə ˈwʊdwɜːrk/",
+    "meaning": "どこからともなく現れる",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "It takes two to tango",
+    "kana": "/ɪt teɪks tuː tə ˈtæŋɡoʊ/",
+    "meaning": "両成敗、協力が必要",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Bang the drum",
+    "kana": "/bæŋ ðə drʌm/",
+    "meaning": "声を大にする、支持する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Hold court",
+    "kana": "/hoʊld kɔːrt/",
+    "meaning": "注目を集めて話す",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 3",
+    "no": "",
+    "eng": "Have seen better days",
+    "kana": "/hæv siːn ˈbetər deɪz/",
+    "meaning": "全盛期は過ぎた、ボロボロである",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Tailor-made (for sth/sb)",
+    "kana": "/ˌteɪlər ˈmeɪd/",
+    "meaning": "特化した、あつらえの",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go for broke",
+    "kana": "/ɡoʊ fɔːr broʊk/",
+    "meaning": "全力を尽くす、いちかばちかやってみる",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "To each their own",
+    "kana": "/tuː iːtʃ ðɛər oʊn/",
+    "meaning": "人それぞれ、好みは人による",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Save face",
+    "kana": "/seɪv feɪs/",
+    "meaning": "面目を保つ、メンツを守る",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Get behind something",
+    "kana": "/ɡɛt bɪˈhaɪnd ˈsʌmθɪŋ/",
+    "meaning": "～を支持する、後押しする",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "As it stands",
+    "kana": "/æz ɪt stændz/",
+    "meaning": "現状では、今のところ",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Over the moon",
+    "kana": "/ˈoʊvər ðə muːn/",
+    "meaning": "非常に幸せな、大喜びして",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Remind me again",
+    "kana": "/rɪˈmaɪnd miː əˈɡɛn/",
+    "meaning": "もう一度教えて、再確認させて",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Below the belt",
+    "kana": "/bɪˈloʊ ðə bɛlt/",
+    "meaning": "卑怯な、不当に厳しい",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "One in a million",
+    "kana": "/wʌn ɪn ə ˈmɪljən/",
+    "meaning": "非常に稀な、唯一無二の",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "An experience",
+    "kana": "/ən ɪkˈspɪriəns/",
+    "meaning": "（興味深い）体験、貴重な経験",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Kill two birds with one stone",
+    "kana": "/kɪl tuː bɜːrdz wɪð wʌn stone/",
+    "meaning": "一石二鳥、一つの行動で二つの目的を果たす",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pull the plug",
+    "kana": "/pʊl ðə plʌɡ/",
+    "meaning": "（計画などを）中止する、打ち切る",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Water under the bridge",
+    "kana": "/ˈwɔːtər ˈʌndər ðə brɪdʒ/",
+    "meaning": "過ぎたこと、済んでしまったこと",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Top dog",
+    "kana": "/tɑːp dɔːɡ/",
+    "meaning": "最も重要な人物、勝者",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "No news is good news",
+    "kana": "/noʊ nuːz ɪz ɡʊd nuːz/",
+    "meaning": "便りがないのは良い便り",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get looks from people",
+    "kana": "/ɡɛt lʊks frʌm ˈpiːpəl/",
+    "meaning": "人々にじろじろ見られる",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Slam dunk",
+    "kana": "/slæm dʌŋk/",
+    "meaning": "確実な成功、間違いのないもの",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pigeonhole somebody",
+    "kana": "/ˈpɪdʒənhəʊl ˈsʌmbədi/",
+    "meaning": "～を決めつける、限定的なカテゴリーに分類する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Peace of mind",
+    "kana": "/piːs əv maɪnd/",
+    "meaning": "安心感、心の平穏",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "That's the way the cookie crumbles",
+    "kana": "/ðæts ðə weɪ ðə ˈkʊki ˈkrʌmbəlz/",
+    "meaning": "それが世の常だ、仕方がない",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Open (up) Pandora's box",
+    "kana": "/ˈoʊpən ʌp pænˈdɔːrəz bɑːks/",
+    "meaning": "災いのもとを開く、問題を次々と引き起こす",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Music to my ears",
+    "kana": "/ˈmjuːzɪk tuː maɪ iːrz/",
+    "meaning": "聞いて嬉しい知らせ",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Showboat",
+    "kana": "/ˈshowboʊt/",
+    "meaning": "見せびらかす、派手なパフォーマンスをする",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take shape",
+    "kana": "/teɪk ʃeɪp/",
+    "meaning": "形になる、具体化する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get to the heart of the matter",
+    "kana": "/ɡɛt tuː ðə hɑːrt əv ðə ˈmætər/",
+    "meaning": "問題の核心に迫る",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Picture-perfect",
+    "kana": "/ˈpɪktʃər ˈpɜːrfɪkt/",
+    "meaning": "完璧な、非の打ち所がない",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Make somebody's blood boil",
+    "kana": "/meɪk ˈsʌmbədiz blʌd bɔɪl/",
+    "meaning": "～を激怒させる",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Roll off the tongue",
+    "kana": "/roʊl ɔːf ðə tʌŋ/",
+    "meaning": "言いやすい、語呂が良い",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "No hard feelings",
+    "kana": "/noʊ hɑːrd ˈfiːlɪŋz/",
+    "meaning": "恨みっこなし、悪く思わない",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Kick somebody when somebody is down",
+    "kana": "/kɪk ˈsʌmbədi wɛn ˈsʌmbədi ɪz daʊn/",
+    "meaning": "弱り目にたたり目、困っている人をさらに追い詰める",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Soldier on",
+    "kana": "/ˈsoʊldʒər ɑːn/",
+    "meaning": "困難に負けずに頑張り続ける",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take away from something",
+    "kana": "/teɪk əˈweɪ frʌm ˈsʌmθɪŋ/",
+    "meaning": "～の価値を削ぐ、～を損なう",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Bet one's house on something",
+    "kana": "/bɛt wʌnz haʊs ɑːn ˈsʌmθɪŋ/",
+    "meaning": "～を確信する、～に太鼓判を押す",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Every man and his dog",
+    "kana": "/ˈɛvri mæn ænd hɪz dɔːɡ/",
+    "meaning": "誰も彼も、非常に多くの人",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Play second fiddle to",
+    "kana": "/pleɪ ˈsɛkənd ˈfɪdəl tuː/",
+    "meaning": "～の脇役に甘んじる、～より軽んじられる",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Play with house money",
+    "kana": "/pleɪ wɪð haʊs ˈmʌni/",
+    "meaning": "リスクなしで勝負する（得た利益で遊ぶ）",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Fact of life",
+    "kana": "/fækt əv laɪf/",
+    "meaning": "避けられない現実",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Few and far between",
+    "kana": "/fjuː ænd fɑːr bɪˈtwiːn/",
+    "meaning": "非常に稀な、めったにない",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "So far so good",
+    "kana": "/soʊ fɑːr soʊ ɡʊd/",
+    "meaning": "今のところ順調",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "At a loss for words",
+    "kana": "/æt ə lɔːs fɔːr wɜːrdz/",
+    "meaning": "言葉を失う、絶句する",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Safety net",
+    "kana": "/ˈseɪfti nɛt/",
+    "meaning": "安全網、いざという時の備え",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Sink or swim",
+    "kana": "/sɪŋk ɔːr swɪm/",
+    "meaning": "いちかばちか、自力で生き残れるかどうか",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "In the driver's seat",
+    "kana": "/ɪn ðə ˈdraɪvərz siːt/",
+    "meaning": "主導権を握る、支配的な立場にいる",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Out of the ordinary",
+    "kana": "/aʊt əv ðɪ ˈɔːrdənɛri/",
+    "meaning": "並外れた、異常な",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Pep talk",
+    "kana": "/ˈpɛp tɔːk/",
+    "meaning": "激励の言葉、短い鼓舞",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get the lay of the land",
+    "kana": "/ɡɛt ðə leɪ əv ðə lænd/",
+    "meaning": "状況を把握する、情勢を探る",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Barking up the wrong tree",
+    "kana": "/ˈbɑːrkɪŋ ʌp ðə rɔːŋ triː/",
+    "meaning": "見当違いをする、お門違い",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Moving target",
+    "kana": "/ˈmuːvɪŋ ˈtɑːrɡɪt/",
+    "meaning": "絶えず変化するもの（目標）",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 3",
+    "no": "",
+    "eng": "Time is of the essence",
+    "kana": "/taɪm ɪz əv ðɪ ˈɛsəns/",
+    "meaning": "時間が極めて重要、一刻を争う",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Wear one's heart on one's sleeve",
+    "kana": "/wɛr wʌnz hɑːrt ɑːn wʌnz sliːv/",
+    "meaning": "感情を包み隠さず出す",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Highly strung",
+    "kana": "/ˈhaɪli strʌŋ/",
+    "meaning": "非常に神経質な、ピリピリした",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Cost an arm and a leg",
+    "kana": "/kɔːst ən ɑːrm ænd ə lɛɡ/",
+    "meaning": "非常に高価な",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go right down to the wire",
+    "kana": "/ɡoʊ raɪt daʊn tuː ðə ˈwaɪər/",
+    "meaning": "最後まで結果がわからない、土壇場まで続く",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Lose face",
+    "kana": "/luːz feɪs/",
+    "meaning": "面目を失う、恥をかく",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Get one's wires crossed",
+    "kana": "/ɡɛt wʌnz ˈwaɪərz krɔːst/",
+    "meaning": "勘違いする、話が食い違う",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Up one's game",
+    "kana": "/ʌp wʌnz ɡeɪm/",
+    "meaning": "本腰を入れる、実力を上げる",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Catch-all",
+    "kana": "/ˈkætʃ ɔːl/",
+    "meaning": "包括的な、何でも含む",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Shake something up",
+    "kana": "/ʃeɪk ˈsʌmθɪŋ ʌp/",
+    "meaning": "刷新する、大きく変える",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Knock on wood",
+    "kana": "/nɑːk ɑːn wʊd/",
+    "meaning": "幸運が続くように祈る",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Where there's a will, there's a way",
+    "kana": "/wɛr ðɛrz ə wɪl ðɛrz ə weɪ/",
+    "meaning": "意志あるところに道は開ける",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Make somebody's ears bleed",
+    "kana": "/meɪk ˈsʌmbədiz iːrz bliːd/",
+    "meaning": "不快な音を聞かせる",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pull the wool over somebody's eyes",
+    "kana": "/pʊl ðə wʊl ˈoʊvər ˈsʌmbədiz aɪz/",
+    "meaning": "～を欺く、～の目をくらます",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put one's house in order",
+    "kana": "/pʊt wʌnz haʊs ɪn ˈɔːrdər/",
+    "meaning": "自分の問題を解決する、身辺を整理する",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take something lightly",
+    "kana": "/teɪk ˈsʌmθɪŋ ˈlaɪtli/",
+    "meaning": "～を甘く見る、軽視する",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Throw somebody to the wolves",
+    "kana": "/θroʊ ˈsʌmbədi tuː ðə wʊlvz/",
+    "meaning": "～を見捨てる、～を窮地に追いやる",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 3",
+    "no": "",
+    "eng": "Food for thought",
+    "kana": "/fuːd fɔːr θɔːt/",
+    "meaning": "思考の糧、検討すべき材料",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "A picture is worth a thousand words",
+    "kana": "/ə ˈpɪktʃər ɪz wɜːrθ ə ˈθaʊzənd wɜːrdz/",
+    "meaning": "百聞は一見にしかず",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Taken care of",
+    "kana": "/ˈteɪkən kɛr əv/",
+    "meaning": "解決済み、処理された",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Sneak out",
+    "kana": "/sniːk aʊt/",
+    "meaning": "こっそり抜け出す",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Reach a tipping point",
+    "kana": "/riːtʃ ə ˈtɪpɪŋ pɔɪnt/",
+    "meaning": "転換点に達する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Blow one's own horn",
+    "kana": "/bloʊ wʌnz oʊn hɔːrn/",
+    "meaning": "自画自賛する、自慢する",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Ups and downs",
+    "kana": "/ʌps ænd daʊnz/",
+    "meaning": "浮き沈み、紆余曲折",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "I'll cross that bridge when I get there",
+    "kana": "/aɪl krɔːs ðæt brɪdʒ wɛn aɪ ɡɛt ðɛr/",
+    "meaning": "その時になったら考える",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "By the skin of one's teeth",
+    "kana": "/baɪ ðə skɪn əv wʌnz tiːθ/",
+    "meaning": "かろうじて、間一髪で",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Oddball",
+    "kana": "/ˈɑːdbɔːl/",
+    "meaning": "変わり者、奇人",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Stick one's neck out",
+    "kana": "/stɪk wʌnz nɛk aʊt/",
+    "meaning": "リスクを負う、大胆なことをする",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Scramble to get something done",
+    "kana": "/ˈskræmbəl tuː ɡɛt ˈsʌmθɪŋ dʌn/",
+    "meaning": "急いで終わらせようと奔走する",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Honeymoon period",
+    "kana": "/ˈhʌnimuːn ˈpɪəriəd/",
+    "meaning": "蜜月期間、初期の良好な時期",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Keep somebody in line",
+    "kana": "/kiːp ˈsʌmbədi ɪn laɪn/",
+    "meaning": "～を規律に従わせる、～に行儀よくさせる",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "God only knows",
+    "kana": "/ɡɑːd ˈoʊnli noʊz/",
+    "meaning": "神のみぞ知る、誰にもわからない",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Refresher",
+    "kana": "/rɪˈfrɛʃər/",
+    "meaning": "思い出させるもの、復習",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Extend an olive branch",
+    "kana": "/ɪkˈstɛnd ən ˈɑːlɪv bræntʃ/",
+    "meaning": "和解を申し出る",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Count one's chickens before they hatch",
+    "kana": "/kaʊnt wʌnz ˈtʃɪkənz bɪˈfɔːr ðeɪ hætʃ/",
+    "meaning": "取らぬ狸の皮算用",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Trickle in",
+    "kana": "/ˈtrɪkəl ɪn/",
+    "meaning": "少しずつ集まる、ぱらぱらと来る",
+    "category": "時間・スピード・タイミング"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Raise the stakes",
+    "kana": "/reɪz ðə steɪks/",
+    "meaning": "賭け金を上げる、重要度を高める",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take stock of",
+    "kana": "/teɪk stɒk ɒv/",
+    "meaning": "〜を評価する、じっくり検討する",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Spruce something up",
+    "kana": "/spruːs ˈsʌmθɪŋ ʌp/",
+    "meaning": "〜をきれいにする、見栄えを良くする",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "So on and so forth",
+    "kana": "/səʊ ɒn ænd səʊ fɔːθ/",
+    "meaning": "などなど、その他諸々",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Scratch the surface",
+    "kana": "/skrætʃ ðə ˈsɜːfɪs/",
+    "meaning": "表面をなぞるだけである、ほんの一部に触れる",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Like pulling teeth",
+    "kana": "/laɪk ˈpʊlɪŋ tiːθ/",
+    "meaning": "非常に困難なこと、骨の折れること",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go-ahead",
+    "kana": "/ˈɡəʊ əˌhed/",
+    "meaning": "許可、ゴーサイン",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Ramp up",
+    "kana": "/ræmp ʌp/",
+    "meaning": "〜を増やす、強化する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Needs little or no explanation",
+    "kana": "/niːdz ˈlɪtl ɔː nəʊ ˈfɜːθər ˌekspləˈneɪʃn/",
+    "meaning": "説明をほとんど（あるいは全く）必要としない",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Innovator or pioneer",
+    "kana": "/ˈɪnəveɪtər ɔː ˌpaɪəˈnɪə/",
+    "meaning": "革新者、先駆者（Trailblazer）",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Have an eye for identifying",
+    "kana": "/hæv æn aɪ fɔːr aɪˈdentɪfaɪɪŋ/",
+    "meaning": "〜を見抜く目がある、識別する才能がある",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Strike while the iron's hot",
+    "kana": "/straɪk waɪl ðə ˈaɪənz hɒt/",
+    "meaning": "鉄は熱いうちに打て、好機を逃さず行動する",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Front-load",
+    "kana": "/front ləʊd/",
+    "meaning": "（作業や支払いを）前倒しにする、初期段階に集中させる",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Drip-feed",
+    "kana": "/drɪp fiːd/",
+    "meaning": "〜を少しずつ提供する、小出しにする",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Be in for the long haul",
+    "kana": "/biː ɪn fɔː ðə lɒŋ hɔːl/",
+    "meaning": "長期戦を覚悟する、長期間取り組む",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Two sides of the same coin",
+    "kana": "/tuː saɪdz ɒv ðə seɪm kɔɪn/",
+    "meaning": "表裏一体、一つの事柄の二つの側面",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Sight for sore eyes",
+    "kana": "/saɪt fɔː sɔːr aɪz/",
+    "meaning": "（疲れを癒やすような）喜ばしい光景、人",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Ring a bell",
+    "kana": "/rɪŋ ə bel/",
+    "meaning": "ピンとくる、聞き覚えがある",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Nag somebody",
+    "kana": "/næɡ ˈsʌmbədi/",
+    "meaning": "〜に小言を言う、しつこく促す",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Full steam ahead",
+    "kana": "/fʊl stiːm əˈhed/",
+    "meaning": "全速前進、最大限のエネルギーで進める",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Stars are aligned",
+    "kana": "/stɑːrz ɑːr əˈlaɪnd/",
+    "meaning": "（成功のための）条件がすべて整っている",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Play on words",
+    "kana": "/pleɪ ɒn wɜːdz/",
+    "meaning": "駄洒落、言葉遊び",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Under lock and key",
+    "kana": "/ˈʌndə lɒk ænd kiː/",
+    "meaning": "厳重に保管されて、鍵がかかって",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Black sheep",
+    "kana": "/blæk ʃiːp/",
+    "meaning": "厄介者、変わり者",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put one's money where one's mouth is",
+    "kana": "/pʊt wʌnz ˈmʌni weə wʌnz maʊθ ɪz/",
+    "meaning": "有言実行する、言葉だけでなく行動（金銭）で示す",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Sugarcoat",
+    "kana": "/ˈʃʊɡəkəʊt/",
+    "meaning": "〜を体裁よく見せる、おブラートに包む",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Speaks for itself",
+    "kana": "/spiːks fɔːr ɪtˈself/",
+    "meaning": "言うまでもない、実績が物語っている",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Show face",
+    "kana": "/ʃəʊ feɪs/",
+    "meaning": "顔を出す、出席する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "The long and the short of it",
+    "kana": "ðł lɒŋ ænd ðł ʃɔːt ɒv ɪt/",
+    "meaning": "結局のところ、要するに",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Walk in someone's shoes",
+    "kana": "/wɔːk ɪn ˈsʌmwʌnz ʃuːz/",
+    "meaning": "〜の立場になって考える",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "On the way out",
+    "kana": "/ɒn ðə weɪ aʊt/",
+    "meaning": "廃れつつある、旧式になりつつある",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Like two peas in a pod",
+    "kana": "/laɪk tuː piːz ɪn ə pɒd/",
+    "meaning": "瓜二つ、そっくり",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Takeaway",
+    "kana": "/ˈteɪkəweɪ/",
+    "meaning": "（会議などの）重要な学び、持ち帰り情報",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pizzazz",
+    "kana": "/pɪˈzæz/",
+    "meaning": "活気、華やかさ",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Knuckle down",
+    "kana": "/ˈnʌkl daʊn/",
+    "meaning": "本腰を入れる、真剣に取り組む",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Make or break",
+    "kana": "/meɪk ɔː breɪk/",
+    "meaning": "成功か失敗かを決める、運命を左右する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Show someone the ropes",
+    "kana": "/ʃəʊ ˈsʌmwʌn ðə rəʊps/",
+    "meaning": "仕事のコツ（やり方）を教える",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Keep something to oneself",
+    "kana": "/kiːp ˈsʌmθɪŋ tuː wʌnˈself/",
+    "meaning": "〜を秘密にしておく、心に留めておく",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Settle one's differences",
+    "kana": "/ˈsetl wʌnz ˈdɪfrənsɪz/",
+    "meaning": "仲直りする、相違点を解決する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 3",
+    "no": "",
+    "eng": "Steady the ship",
+    "kana": "/ˈstedi ðə ʃɪp/",
+    "meaning": "状況を安定させる、落ち着かせる",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "At the end of one's rope",
+    "kana": "/æt ðɪ end ɒv wʌnz rəʊp/",
+    "meaning": "万策尽きて、我慢の限界で",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Wild goose chase",
+    "kana": "/waɪld ɡuːs tʃeɪs/",
+    "meaning": "無駄骨、当てのない追求",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Married to the idea",
+    "kana": "/ˈmærid tuː ðɪ aɪˈdɪə/",
+    "meaning": "その考えに固執している",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Firing on all cylinders",
+    "kana": "/ˈfaɪərɪŋ ɒn ɔːl ˈsɪlɪndəz/",
+    "meaning": "フル回転で、絶好調で",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Weigh on one's mind",
+    "kana": "/weɪ ɒn wʌnz maɪnd/",
+    "meaning": "心に重くのしかかる、心配させる",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Ship shape",
+    "kana": "/ʃɪp ʃeɪp/",
+    "meaning": "整然とした、きれいに片付いた",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Put two and two together",
+    "kana": "/pʊt tuː ænd tuː təˈɡeðər/",
+    "meaning": "状況から推測する、結びつけて考える",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Ask for the world",
+    "kana": "/ɑːsk fɔː ðə wɜːld/",
+    "meaning": "無理難題を言う、過大な要求をする",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Be-all and end-all",
+    "kana": "/biː ɔːl ænd end ɔːl/",
+    "meaning": "最も重要なこと、究極の目的",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "On cloud nine",
+    "kana": "/ɒn klaʊd naɪn/",
+    "meaning": "この上なく幸せで",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Snapshot",
+    "kana": "/ˈsnæpʃɒt/",
+    "meaning": "概要、現状の短い要約",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "On second thought",
+    "kana": "/ɒn ˈsekənd θɔːt/",
+    "meaning": "考え直してみると",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Spin one's wheels",
+    "kana": "/spɪn wʌnz wiːlz/",
+    "meaning": "空回りする、努力の割に進展がない",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Recap",
+    "kana": "/ˈriːkæp/",
+    "meaning": "要約、おさらい",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Everything under the sun",
+    "kana": "/ˈevriθɪŋ ˈʌndə ðə sʌn/",
+    "meaning": "世の中のありとあらゆるもの",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Low-key",
+    "kana": "/ˌləʊˈkiː/",
+    "meaning": "控えめな、地味な",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Kudos",
+    "kana": "/ˈkjuːdɒs/",
+    "meaning": "賞賛、称え",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "OCD",
+    "kana": "/ˌəʊ siː ˈdiː/",
+    "meaning": "強迫性障害、または潔癖症",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Talk shop",
+    "kana": "/tɔːk ʃɒp/",
+    "meaning": "仕事の話をする",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Throw somebody a bone",
+    "kana": "/θrəʊ ˈsʌmbədi ə bəʊn/",
+    "meaning": "恩恵を与える、なだめるために少し譲歩する",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Straight and narrow",
+    "kana": "/streɪt ænd ˈnærəʊ/",
+    "meaning": "正しい道、道徳的な生き方",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Diamond in the rough",
+    "kana": "/ˈdaɪəmənd ɪn ðə rʌf/",
+    "meaning": "未磨きの原石、将来有望な人",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Roll something out",
+    "kana": "/rəʊl ˈsʌmθɪŋ aʊt/",
+    "meaning": "〜を（新しく）導入する、公開する",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Go Dutch",
+    "kana": "/ɡəʊ dʌtʃ/",
+    "meaning": "割り勘にする",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Long shot",
+    "kana": "/lɒŋ ʃɒt/",
+    "meaning": "勝ち目の薄い試み、遠い可能性",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Staycation",
+    "kana": "/ˌsteɪˈkeɪʃn/",
+    "meaning": "近場や自宅で過ごす休暇",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Tempest in a teapot",
+    "kana": "/ˈtempɪst ɪn ə ˈtiːpɒt/",
+    "meaning": "些細なことで大騒ぎすること",
+    "category": "トラブル・逆境・ピンチ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Walk on eggshells",
+    "kana": "/wɔːk ɒn ˈeɡʃelz/",
+    "meaning": "細心の注意を払う、顔色をうかがう",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pull the trigger",
+    "kana": "/pʊl ðə ˈtrɪɡər/",
+    "meaning": "決断を下す、実行に移す",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Collecting dust",
+    "kana": "/kəˈlektɪŋ dʌst/",
+    "meaning": "使われずに埃をかぶっている",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Call the shots",
+    "kana": "/kɔːl ðə ʃɒts/",
+    "meaning": "指揮を執る、決定権を持つ",
+    "category": "仕事・ビジネス・戦略"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Selective memory",
+    "kana": "/sɪˈlektɪv ˈmeməri/",
+    "meaning": "都合の良いことだけ覚えていること",
+    "category": "不注意・隠蔽・ごまかし"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "All's well that ends well",
+    "kana": "/ɔːlz wel ðæt endz wel/",
+    "meaning": "終わりよければすべてよし",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 4",
+    "no": "",
+    "eng": "Ignorance is bliss",
+    "kana": "/ˈɪɡnərəns ɪz blɪs/",
+    "meaning": "知らぬが仏",
+    "category": "世の理・一般論・会話の潤滑油"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Soften the blow",
+    "kana": "/ˈsɒfn ðə bləʊ/",
+    "meaning": "ショックを和らげる",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "A few sandwiches short of a picnic",
+    "kana": "/ə fjuː ˈsænwɪdʒɪz ʃɔːt ɒv ə ˈpɪknɪk/",
+    "meaning": "頭が少し足りない、愚かな",
+    "category": "人の特徴・役割・振る舞い"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Rough somebody up",
+    "kana": "/rʌf ˈsʌmbədi ʌp/",
+    "meaning": "〜に暴行を加える",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Smooth things over",
+    "kana": "/smuːð θɪŋz ˈəʊvər/",
+    "meaning": "事態を丸く収める",
+    "category": "人間関係・コミュニケーション"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Take the sting out of",
+    "kana": "/teɪk ðə stŋ aʊt ɒv/",
+    "meaning": "〜の苦痛（不快感）を和らげる",
+    "category": "表現・視点・分析"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Keep somebody up at night",
+    "kana": "/kiːp ˈsʌmbədi ʌp æt naɪt/",
+    "meaning": "（心配事で）〜を眠れなくさせる",
+    "category": "感情・マインド・内面状態"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Carry a tune",
+    "kana": "/ˈkæri ə tjuːn/",
+    "meaning": "正確な音程で歌う",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Move heaven and earth",
+    "kana": "/muːv ˈhevn ænd ɜːθ/",
+    "meaning": "八方手を尽くす、全力を尽くす",
+    "category": "決断・行動・一歩を踏み出す"
+  },
+  {
+    "type": "Type 1",
+    "no": "",
+    "eng": "Pump iron",
+    "kana": "/pʌmp ˈaɪən/",
+    "meaning": "筋トレをする、ウェイトリフティングをする",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "The Midas touch",
+    "kana": "ðə ˈmaɪdəs tʌtʃ/",
+    "meaning": "何をやっても成功する才能、金儲けの才能",
+    "category": "評価・価値・クオリティ"
+  },
+  {
+    "type": "Type 2",
+    "no": "",
+    "eng": "Gas guzzler",
+    "kana": "/ɡæs ˈɡʌzlər/",
+    "meaning": "燃費の悪い車",
+    "category": "評価・価値・クオリティ"
+  }
+]
